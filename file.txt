@@ -1,1 +1,1 @@
-One man's constant is another man's variable.
+Write code as if the next maintainer is a psychopath who knows where you live.
