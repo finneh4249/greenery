@@ -1,1 +1,1 @@
-It's not a bug – it's an undocumented feature.
+Write code as if the next maintainer is a psychopath who knows where you live.
