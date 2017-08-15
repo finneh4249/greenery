@@ -1,1 +1,1 @@
-It's not a bug – it's an undocumented feature.
+If at first you don't succeed; call it version 1.0.
