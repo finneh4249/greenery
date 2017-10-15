@@ -1,1 +1,1 @@
-Write code as if the next maintainer is a psychopath who knows where you live.
+Computers are good at following instructions, but not at reading your mind.
