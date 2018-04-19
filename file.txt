@@ -1,1 +1,1 @@
-Write code as if the next maintainer is a psychopath who knows where you live.
+There are two ways to write error-free programs; only the third one works.
