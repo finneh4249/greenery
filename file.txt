@@ -1,1 +1,1 @@
-Hardware: the parts of a computer that you can kick.
+It's not a bug – it's an undocumented feature.
