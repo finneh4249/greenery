@@ -1,1 +1,1 @@
-Hardware: the parts of a computer that you can kick.
+There are two ways to write error-free programs; only the third one works.
