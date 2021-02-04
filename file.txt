@@ -1,1 +1,1 @@
-Hardware: the parts of a computer that you can kick.
+Write code as if the next maintainer is a psychopath who knows where you live.
