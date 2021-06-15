@@ -1,1 +1,1 @@
-In a world without fences and walls, who needs Gates and Windows?
+Write code as if the next maintainer is a psychopath who knows where you live.
