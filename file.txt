@@ -1,1 +1,1 @@
-Code never lies, comments sometimes do.
+It's not a bug – it's an undocumented feature.
