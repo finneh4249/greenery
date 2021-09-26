@@ -1,1 +1,1 @@
-Deleted code is debugged code.
+There are two ways to write error-free programs; only the third one works.
