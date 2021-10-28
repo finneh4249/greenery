@@ -1,1 +1,1 @@
-Don't worry if it doesn't work right. If everything did, you'd be out of a job.
+Write code as if the next maintainer is a psychopath who knows where you live.
