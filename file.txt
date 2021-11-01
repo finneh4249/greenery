@@ -1,1 +1,1 @@
-Don't worry if it doesn't work right. If everything did, you'd be out of a job.
+There are two ways to write error-free programs; only the third one works.
