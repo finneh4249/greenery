@@ -1,1 +1,1 @@
-Code never lies, comments sometimes do.
+Write code as if the next maintainer is a psychopath who knows where you live.
