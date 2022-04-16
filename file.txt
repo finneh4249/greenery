@@ -1,1 +1,1 @@
-Think twice, code once.
+It's not a bug – it's an undocumented feature.
