@@ -1,1 +1,1 @@
-Computers are good at following instructions, but not at reading your mind.
+It's not a bug – it's an undocumented feature.
