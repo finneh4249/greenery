@@ -1,1 +1,1 @@
-Think twice, code once.
+Write code as if the next maintainer is a psychopath who knows where you live.
