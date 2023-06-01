@@ -1,1 +1,1 @@
-Deleted code is debugged code.
+Write code as if the next maintainer is a psychopath who knows where you live.
