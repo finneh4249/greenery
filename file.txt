@@ -1,1 +1,1 @@
-Simplicity is the soul of efficiency.
+Code never lies, comments sometimes do.
