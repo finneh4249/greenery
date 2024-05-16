@@ -1,1 +1,1 @@
-Deleted code is debugged code.
+It's not a bug – it's an undocumented feature.
