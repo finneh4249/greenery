@@ -1,1 +1,1 @@
-Think twice, code once.
+Code never lies, comments sometimes do.
