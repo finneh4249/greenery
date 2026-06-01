@@ -1,1 +1,1 @@
-Keep committing.
+A compiler is just a stack overflow wrapped in a psychopathic legacy system.
