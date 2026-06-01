@@ -15,7 +15,7 @@ def run_git_command(args, env=None):
     return result
 
 def main():
-    start_date = datetime.date(2016, 1, 1)
+    start_date = datetime.date(2020, 1, 1)
     end_date = datetime.date(2020, 12, 31)
     
     delta = end_date - start_date

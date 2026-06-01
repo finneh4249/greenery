@@ -58,6 +58,11 @@ def make_repo_private(owner, repo_name, token):
     data = {"private": True}
     github_request(url, token, data=data, method='PATCH')
 
+def transfer_repo_ownership(owner, repo_name, new_owner, token):
+    url = f"https://api.github.com/repos/{owner}/{repo_name}/transfer"
+    data = {"new_owner": new_owner}
+    github_request(url, token, data=data, method='POST')
+
 def run_tui(stdscr, token):
     # Hide cursor
     try:
@@ -207,7 +212,7 @@ def run_tui(stdscr, token):
             
             # Key guides
             guide1 = "[Space] Toggle | [f] Filter Name | [m] Pattern Match | [c] Clear Filter | [a] Select All"
-            guide2 = "[p] Make Private | [q] Quit | [Up/Down] Navigate"
+            guide2 = "[p] Make Private | [t] Transfer to axion-au | [q] Quit | [Up/Down] Navigate"
             stdscr.addstr(footer_start_y + 2, 0, guide1[:w-1])
             stdscr.addstr(footer_start_y + 3, 0, guide2[:w-1])
 
@@ -328,6 +333,43 @@ def run_tui(stdscr, token):
                     failed += 1
             
             draw_status(f"Finished bulk update: {success} succeeded, {failed} failed.")
+
+        elif key == ord('t'):
+            # Bulk action: Transfer ownership to axion-au
+            selected_repos = [r for r in repos if r["selected"]]
+            if not selected_repos:
+                draw_status("No repositories selected for ownership transfer.", 3)
+                continue
+            
+            # Confirm confirmation prompt
+            confirm_msg = f"Transfer {len(selected_repos)} repos to 'axion-au'? (y/n): "
+            stdscr.move(footer_start_y + 1, 0)
+            stdscr.clrtoeol()
+            stdscr.addstr(footer_start_y + 1, 0, confirm_msg, curses.A_BOLD)
+            stdscr.refresh()
+            
+            conf_key = stdscr.getch()
+            if conf_key not in (ord('y'), ord('Y')):
+                draw_status("Transfer cancelled.")
+                continue
+            
+            # Process updates
+            success = 0
+            failed = 0
+            for i, r in enumerate(selected_repos):
+                draw_status(f"Transferring [{i+1}/{len(selected_repos)}]: {r['name']}...", 2)
+                stdscr.clear() # Force redrawing layout
+                stdscr.addstr(footer_start_y + 1, 0, f" Status: Transferring {r['owner']}/{r['name']} to axion-au...".ljust(w), curses.color_pair(2) | curses.A_BOLD)
+                stdscr.refresh()
+                try:
+                    transfer_repo_ownership(r["owner"], r["name"], "axion-au", token)
+                    r["owner"] = "axion-au"
+                    r["selected"] = False
+                    success += 1
+                except Exception as e:
+                    failed += 1
+            
+            draw_status(f"Finished transfer: {success} succeeded, {failed} failed.")
 
 def main():
     # Load .env file if it exists
