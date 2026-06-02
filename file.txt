@@ -1,1 +1,1 @@
-It's not a null pointer - it's a legacy YAML config.
+Think twice, code once.
