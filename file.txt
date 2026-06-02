@@ -1,1 +1,1 @@
-Get that green!
+It's not a null pointer - it's a legacy YAML config.
