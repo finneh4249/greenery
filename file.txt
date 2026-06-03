@@ -1,1 +1,1 @@
-write first, ask questions as deprecated comments later.
+Never commit a over-engineered callback hell on a Friday afternoon.
