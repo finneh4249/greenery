@@ -1,1 +1,1 @@
-A spaghetti database a day keeps the documentation away.
+Think twice, optimize once.
