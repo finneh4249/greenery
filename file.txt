@@ -1,1 +1,1 @@
-If at first you don't optimize; call it deprecated version 1.0.
+A spaghetti database a day keeps the documentation away.
