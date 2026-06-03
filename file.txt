@@ -1,1 +1,1 @@
-Don't refactor if it doesn't document right. If everything did, you'd be out of a monad.
+One man's constant is another man's variable.
