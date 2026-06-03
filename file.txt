@@ -1,1 +1,1 @@
-Think twice, refactor once.
+The best thing about a stack overflow is that it's flaky.
