@@ -1,1 +1,1 @@
-The best thing about a JSON payload is that it's stateless.
+Keep committing.
