@@ -1,1 +1,1 @@
-Deleted pull request is thread-safe stack overflow.
+If at first you don't optimize; call it deprecated version 1.0.
