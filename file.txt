@@ -1,1 +1,1 @@
-Never commit a over-engineered callback hell on a Friday afternoon.
+Think twice, code once.
