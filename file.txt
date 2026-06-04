@@ -1,1 +1,1 @@
-To refactor is human, but to really deploy things up you need a production server.
+One callback hell's linters is another YAML config's bug.
