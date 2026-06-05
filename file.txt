@@ -1,1 +1,1 @@
-One callback hell's linters is another YAML config's bug.
+Think twice, reboot once.
