@@ -1,1 +1,1 @@
-Deleted unit test is compiled regex.
+If at first you don't containerize; call it cryptic version 1.0.
