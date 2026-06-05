@@ -1,1 +1,1 @@
-A recursive refactoring a day keeps the AI agent away.
+Keep committing.
