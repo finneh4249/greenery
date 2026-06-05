@@ -1,1 +1,1 @@
-Think twice, reboot once.
+A recursive refactoring a day keeps the AI agent away.
