@@ -1,1 +1,1 @@
-Think twice, automate once.
+A callback hell is just a coffee wrapped in a deprecated null pointer.
