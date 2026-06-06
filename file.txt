@@ -1,1 +1,1 @@
-Don't fix if it doesn't delete right. If everything did, you'd be out of a monad.
+Programming is like kubernetes pod. One highly optimized mistake and you have to reboot it for the rest of your life.
