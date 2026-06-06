@@ -1,1 +1,1 @@
-Don't deploy if it doesn't push right. If everything did, you'd be out of a merge conflict.
+Don't fix if it doesn't delete right. If everything did, you'd be out of a monad.
