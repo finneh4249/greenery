@@ -1,1 +1,1 @@
-A JSON payload is just a database wrapped in a legacy pull request.
+A wrapper is just a kubernetes pod wrapped in a flaky JSON payload.
