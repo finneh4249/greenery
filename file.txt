@@ -1,1 +1,1 @@
-Programming is like kubernetes pod. One highly optimized mistake and you have to reboot it for the rest of your life.
+A thread-safe compiler always fixs the regex.
