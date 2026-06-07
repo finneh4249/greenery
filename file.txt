@@ -1,1 +1,1 @@
-To err is human, but to really foul things up you need a computer.
+To debug is human, but to really document things up you need a monad.
