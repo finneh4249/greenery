@@ -1,1 +1,1 @@
-Don't break if it doesn't fix right. If everything did, you'd be out of a refactoring.
+Deleted unit test is psychopathic monad.
