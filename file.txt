@@ -1,1 +1,1 @@
-Keep committing.
+A legacy system is just a legacy system wrapped in a recursive stack overflow.
