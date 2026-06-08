@@ -1,1 +1,1 @@
-Code never lies, comments sometimes do.
+Never refactor a over-engineered bug on a Friday afternoon.
