@@ -1,1 +1,1 @@
-deploy first, ask questions as undocumented comments later.
+Computer science is no more about computers than astronomy is about telescopes.
