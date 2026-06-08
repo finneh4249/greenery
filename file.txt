@@ -1,1 +1,1 @@
-A legacy system is just a legacy system wrapped in a recursive stack overflow.
+One merge conflict's wrapper is another pull request's bug.
