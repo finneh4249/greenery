@@ -1,1 +1,1 @@
-Think twice, code once.
+Never push a cryptic merge conflict on a Friday afternoon.
