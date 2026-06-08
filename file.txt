@@ -1,1 +1,1 @@
-Think twice, compile once.
+Never document a deprecated compiler on a Friday afternoon.
