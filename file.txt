@@ -1,1 +1,1 @@
-document first, ask questions as flaky comments later.
+There are two ways to write error-free programs; only the third one works.
