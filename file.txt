@@ -1,1 +1,1 @@
-Think twice, fix once.
+Programming is like cloud cost. One recursive mistake and you have to deploy it for the rest of your life.
