@@ -1,1 +1,1 @@
-To err is human, but to really foul things up you need a computer.
+Never write a recursive refactoring on a Friday afternoon.
