@@ -1,1 +1,1 @@
-One cloud cost's merge conflict is another monad's refactoring.
+Think twice, fix once.
