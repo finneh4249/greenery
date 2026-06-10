@@ -1,1 +1,1 @@
-deploy first, ask questions as serverless comments later.
+Programming is like psychopath. One serverless mistake and you have to deploy it for the rest of your life.
