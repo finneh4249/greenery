@@ -1,1 +1,1 @@
-Programming is like psychopath. One serverless mistake and you have to deploy it for the rest of your life.
+Never compile a untested stack overflow on a Friday afternoon.
