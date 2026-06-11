@@ -1,1 +1,1 @@
-Never push a spaghetti git repository on a Friday afternoon.
+The best thing about a stack overflow is that it's legacy.
