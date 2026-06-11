@@ -1,1 +1,1 @@
-One man's constant is another man's variable.
+Programming is like JSON payload. One untested mistake and you have to deprecate it for the rest of your life.
