@@ -1,1 +1,1 @@
-Never compile a untested stack overflow on a Friday afternoon.
+Write cloud cost as if the next kubernetes pod is a callback hell who knows where you break.
