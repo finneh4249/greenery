@@ -1,1 +1,1 @@
-Programming is like JSON payload. One untested mistake and you have to deprecate it for the rest of your life.
+Never push a spaghetti git repository on a Friday afternoon.
