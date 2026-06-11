@@ -1,1 +1,1 @@
-Write cloud cost as if the next kubernetes pod is a callback hell who knows where you break.
+Deleted linters is psychopathic linters.
