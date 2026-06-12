@@ -1,1 +1,1 @@
-To containerize is human, but to really debug things up you need a production server.
+Programming is like unit test. One highly optimized mistake and you have to commit it for the rest of your life.
