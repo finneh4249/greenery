@@ -1,1 +1,1 @@
-There are two ways to write error-free programs; only the third one works.
+To containerize is human, but to really debug things up you need a production server.
