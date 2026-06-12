@@ -1,1 +1,1 @@
-Deleted code is debugged code.
+Deleted pull request is over-engineered wrapper.
