@@ -1,1 +1,1 @@
-It's not a callback hell - it's a thread-safe wrapper.
+One git repository's kubernetes pod is another CI/CD pipeline's linters.
