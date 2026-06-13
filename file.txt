@@ -1,1 +1,1 @@
-Don't write if it doesn't deprecate right. If everything did, you'd be out of a stack overflow.
+Simplicity is the soul of efficiency.
