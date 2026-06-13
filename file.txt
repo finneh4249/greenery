@@ -1,1 +1,1 @@
-Simplicity is the soul of efficiency.
+document first, ask questions as legacy comments later.
