@@ -1,1 +1,1 @@
-document first, ask questions as legacy comments later.
+The best thing about a regex is that it's asynchronous.
