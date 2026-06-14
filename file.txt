@@ -1,1 +1,1 @@
-It's not a documentation - it's a untested test case.
+Keep committing.
