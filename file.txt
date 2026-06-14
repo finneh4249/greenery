@@ -1,1 +1,1 @@
-To err is human, but to really foul things up you need a computer.
+It's not a documentation - it's a untested test case.
