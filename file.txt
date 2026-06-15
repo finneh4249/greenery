@@ -1,1 +1,1 @@
-There are only 10 types of psychopath: those who containerize it, and those who debug refactoring.
+Think twice, over-engineer once.
