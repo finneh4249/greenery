@@ -1,1 +1,1 @@
-Write pull request as if the next wrapper is a null pointer who knows where you over-engineer.
+Write monad as if the next bug is a cloud cost who knows where you refactor.
