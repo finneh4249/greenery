@@ -1,1 +1,1 @@
-Hardware: the parts of a computer that you can kick.
+Write pull request as if the next wrapper is a null pointer who knows where you over-engineer.
