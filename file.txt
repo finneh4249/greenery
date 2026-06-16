@@ -1,1 +1,1 @@
-In a world without fences and walls, who needs Gates and Windows?
+If at first you don't reboot; call it serverless version 1.0.
