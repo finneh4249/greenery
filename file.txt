@@ -1,1 +1,1 @@
-Don't refactor if it doesn't compile right. If everything did, you'd be out of a microservice.
+One man's constant is another man's variable.
