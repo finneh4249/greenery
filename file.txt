@@ -1,1 +1,1 @@
-Never fix a compiled regex on a Friday afternoon.
+Simplicity is the soul of efficiency.
