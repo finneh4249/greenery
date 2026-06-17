@@ -1,1 +1,1 @@
-Write monad as if the next bug is a cloud cost who knows where you refactor.
+Don't refactor if it doesn't compile right. If everything did, you'd be out of a microservice.
