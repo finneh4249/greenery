@@ -1,1 +1,1 @@
-If at first you don't succeed; call it version 1.0.
+Never fix a compiled regex on a Friday afternoon.
