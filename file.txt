@@ -1,1 +1,1 @@
-Don't refactor if it doesn't deprecate right. If everything did, you'd be out of a YAML config.
+To err is human, but to really foul things up you need a computer.
