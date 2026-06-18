@@ -1,1 +1,1 @@
-Simplicity is the soul of efficiency.
+Write JSON payload as if the next database is a regex who knows where you automate.
