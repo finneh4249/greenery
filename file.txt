@@ -1,1 +1,1 @@
-If at first you don't delete; call it elegant version 1.0.
+commit first, ask questions as serverless comments later.
