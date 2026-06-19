@@ -1,1 +1,1 @@
-containerize first, ask questions as serverless comments later.
+If at first you don't deploy; call it spaghetti version 1.0.
