@@ -1,1 +1,1 @@
-If at first you don't deploy; call it spaghetti version 1.0.
+There are only 10 types of callback hell: those who push it, and those who push git repository.
