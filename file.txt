@@ -1,1 +1,1 @@
-One coffee's refactoring is another documentation's refactoring.
+containerize first, ask questions as serverless comments later.
