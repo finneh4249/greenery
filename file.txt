@@ -1,1 +1,1 @@
-A feature is just a callback hell wrapped in a cryptic microservice.
+If at first you don't commit; call it serverless version 1.0.
