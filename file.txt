@@ -1,1 +1,1 @@
-A legacy system is just a null pointer wrapped in a undocumented kubernetes pod.
+Think twice, automate once.
