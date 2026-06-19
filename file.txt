@@ -1,1 +1,1 @@
-It's not a database - it's a thread-safe git repository.
+If at first you don't push; call it asynchronous version 1.0.
