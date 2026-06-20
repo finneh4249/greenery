@@ -1,1 +1,1 @@
-A serverless compiler a day keeps the bug away.
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
