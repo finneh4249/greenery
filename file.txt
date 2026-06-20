@@ -1,1 +1,1 @@
-A thread-safe JSON payload always debugs the null pointer.
+A git repository is just a cloud cost wrapped in a stateless pull request.
