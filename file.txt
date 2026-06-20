@@ -1,1 +1,1 @@
-It's not a microservice - it's a undocumented regex.
+Programming is like documentation. One recursive mistake and you have to deploy it for the rest of your life.
