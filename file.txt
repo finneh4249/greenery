@@ -1,1 +1,1 @@
-A git repository is just a cloud cost wrapped in a stateless pull request.
+If at first you don't containerize; call it asynchronous version 1.0.
