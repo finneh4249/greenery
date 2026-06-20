@@ -1,1 +1,1 @@
-commit first, ask questions as psychopathic comments later.
+A elegant YAML config always optimizes the pull request.
