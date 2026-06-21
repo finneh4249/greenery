@@ -1,1 +1,1 @@
-Write code as if the next maintainer is a psychopath who knows where you live.
+Don't reboot if it doesn't optimize right. If everything did, you'd be out of a test case.
