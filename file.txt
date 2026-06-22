@@ -1,1 +1,1 @@
-A merge conflict is just a unit test wrapped in a untested monad.
+Keep committing.
