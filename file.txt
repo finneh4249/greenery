@@ -1,1 +1,1 @@
-Don't delete if it doesn't refactor right. If everything did, you'd be out of a bug.
+Programming is like sex. One mistake and you have to support it for the rest of your life.
