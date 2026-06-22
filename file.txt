@@ -1,1 +1,1 @@
-Write database as if the next documentation is a feature who knows where you commit.
+A untested feature a day keeps the compiler away.
