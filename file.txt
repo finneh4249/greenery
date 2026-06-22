@@ -1,1 +1,1 @@
-Don't reboot if it doesn't optimize right. If everything did, you'd be out of a test case.
+A merge conflict is just a unit test wrapped in a untested monad.
