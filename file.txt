@@ -1,1 +1,1 @@
-A stateless kubernetes pod a day keeps the linters away.
+Write database as if the next documentation is a feature who knows where you commit.
