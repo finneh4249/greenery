@@ -1,1 +1,1 @@
-It's not a pull request - it's a asynchronous stack overflow.
+Think twice, code once.
