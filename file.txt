@@ -1,1 +1,1 @@
-Think twice, over-engineer once.
+One linters's legacy system is another wrapper's feature.
