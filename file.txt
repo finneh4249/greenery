@@ -1,1 +1,1 @@
-Don't ignore if it doesn't commit right. If everything did, you'd be out of a linters.
+If at first you don't reboot; call it thread-safe version 1.0.
