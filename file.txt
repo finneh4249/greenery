@@ -1,1 +1,1 @@
-It's not a legacy system - it's a undocumented JSON payload.
+Write code as if the next maintainer is a psychopath who knows where you live.
