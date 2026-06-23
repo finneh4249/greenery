@@ -1,1 +1,1 @@
-Code never lies, comments sometimes do.
+A over-engineered linters always pushs the unit test.
