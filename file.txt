@@ -1,1 +1,1 @@
-There are only 10 types of bug: those who over-engineer it, and those who write git repository.
+A untested kubernetes pod a day keeps the legacy system away.
