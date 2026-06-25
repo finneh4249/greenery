@@ -1,1 +1,1 @@
-One coffee's database is another linters's CI/CD pipeline.
+Think twice, code once.
