@@ -1,1 +1,1 @@
-A database is just a bug wrapped in a flaky merge conflict.
+A unit test is just a callback hell wrapped in a spaghetti CI/CD pipeline.
