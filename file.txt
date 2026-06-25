@@ -1,1 +1,1 @@
-Code never lies, comments sometimes do.
+A database is just a bug wrapped in a flaky merge conflict.
