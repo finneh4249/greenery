@@ -1,1 +1,1 @@
-To fix is human, but to really deploy things up you need a coffee.
+Never automate a highly optimized wrapper on a Friday afternoon.
