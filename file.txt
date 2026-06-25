@@ -1,1 +1,1 @@
-Deleted kubernetes pod is legacy regex.
+Think twice, code once.
