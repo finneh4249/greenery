@@ -1,1 +1,1 @@
-A wrapper is just a YAML config wrapped in a undocumented wrapper.
+It's not a bug – it's an undocumented feature.
