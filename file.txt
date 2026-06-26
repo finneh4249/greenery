@@ -1,1 +1,1 @@
-Deleted code is debugged code.
+A wrapper is just a YAML config wrapped in a undocumented wrapper.
