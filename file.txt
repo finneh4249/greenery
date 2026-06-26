@@ -1,1 +1,1 @@
-One kubernetes pod's pull request is another microservice's bug.
+Deleted code is debugged code.
