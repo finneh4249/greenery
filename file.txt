@@ -1,1 +1,1 @@
-One documentation's bug is another database's microservice.
+Think twice, code once.
