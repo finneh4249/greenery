@@ -1,1 +1,1 @@
-Write code as if the next maintainer is a psychopath who knows where you live.
+A highly optimized test case always pushs the test case.
