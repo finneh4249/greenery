@@ -1,1 +1,1 @@
-If at first you don't delete; call it deprecated version 1.0.
+One documentation's bug is another database's microservice.
