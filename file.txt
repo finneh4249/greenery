@@ -1,1 +1,1 @@
-If at first you don't succeed; call it version 1.0.
+deprecate first, ask questions as untested comments later.
