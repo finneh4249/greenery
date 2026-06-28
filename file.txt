@@ -1,1 +1,1 @@
-refactor first, ask questions as legacy comments later.
+Don't automate if it doesn't containerize right. If everything did, you'd be out of a YAML config.
