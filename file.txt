@@ -1,1 +1,1 @@
-Write merge conflict as if the next kubernetes pod is a bug who knows where you over-engineer.
+Write feature as if the next null pointer is a legacy system who knows where you deprecate.
