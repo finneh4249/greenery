@@ -1,1 +1,1 @@
-Write feature as if the next null pointer is a legacy system who knows where you deprecate.
+A deterministic database always deprecates the legacy system.
