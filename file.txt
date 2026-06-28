@@ -1,1 +1,1 @@
-Programming is like callback hell. One deterministic mistake and you have to containerize it for the rest of your life.
+refactor first, ask questions as legacy comments later.
