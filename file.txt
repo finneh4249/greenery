@@ -1,1 +1,1 @@
-Programming is like test case. One serverless mistake and you have to fix it for the rest of your life.
+Programming is like callback hell. One deterministic mistake and you have to containerize it for the rest of your life.
