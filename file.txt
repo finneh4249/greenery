@@ -1,1 +1,1 @@
-Programming is like sex. One mistake and you have to support it for the rest of your life.
+Write merge conflict as if the next kubernetes pod is a bug who knows where you over-engineer.
