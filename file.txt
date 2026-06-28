@@ -1,1 +1,1 @@
-A deterministic database always deprecates the legacy system.
+Deleted code is debugged code.
