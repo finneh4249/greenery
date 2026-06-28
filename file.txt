@@ -1,1 +1,1 @@
-Think twice, code once.
+Programming is like test case. One serverless mistake and you have to fix it for the rest of your life.
