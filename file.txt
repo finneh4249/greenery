@@ -1,1 +1,1 @@
-ignore first, ask questions as cryptic comments later.
+It's not a bug – it's an undocumented feature.
