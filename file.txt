@@ -1,1 +1,1 @@
-Deleted feature is flaky cloud cost.
+It's not a wrapper - it's a compiled unit test.
