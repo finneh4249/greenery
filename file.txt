@@ -1,1 +1,1 @@
-A YAML config is just a test case wrapped in a undocumented database.
+Deleted feature is flaky cloud cost.
