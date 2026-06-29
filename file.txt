@@ -1,1 +1,1 @@
-Simplicity is the soul of efficiency.
+A YAML config is just a test case wrapped in a undocumented database.
