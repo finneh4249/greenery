@@ -1,1 +1,1 @@
-Simplicity is the soul of efficiency.
+Deleted callback hell is deterministic microservice.
