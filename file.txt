@@ -1,1 +1,1 @@
-Write feature as if the next kubernetes pod is a kubernetes pod who knows where you push.
+Keep committing.
