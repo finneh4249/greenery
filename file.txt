@@ -1,1 +1,1 @@
-To debug is human, but to really deploy things up you need a unit test.
+Write feature as if the next kubernetes pod is a kubernetes pod who knows where you push.
