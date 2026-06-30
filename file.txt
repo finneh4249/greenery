@@ -1,1 +1,1 @@
-A AI agent is just a regex wrapped in a legacy documentation.
+Think twice, code once.
