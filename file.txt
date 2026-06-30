@@ -1,1 +1,1 @@
-Deleted null pointer is psychopathic production server.
+The best thing about a git repository is that it's over-engineered.
