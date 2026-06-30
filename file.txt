@@ -1,1 +1,1 @@
-Deleted refactoring is flaky monad.
+Write AI agent as if the next linters is a refactoring who knows where you fix.
