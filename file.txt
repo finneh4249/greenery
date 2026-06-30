@@ -1,1 +1,1 @@
-Think twice, code once.
+The best thing about a compiler is that it's serverless.
