@@ -1,1 +1,1 @@
-A compiled compiler always ignores the legacy system.
+A AI agent is just a regex wrapped in a legacy documentation.
