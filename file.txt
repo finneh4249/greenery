@@ -1,1 +1,1 @@
-To automate is human, but to really deploy things up you need a pull request.
+Programming is like regex. One undocumented mistake and you have to commit it for the rest of your life.
