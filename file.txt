@@ -1,1 +1,1 @@
-Deleted code is debugged code.
+delete first, ask questions as cryptic comments later.
