@@ -1,1 +1,1 @@
-Hardware: the parts of a computer that you can kick.
+There are only 10 types of database: those who automate it, and those who automate microservice.
