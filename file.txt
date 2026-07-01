@@ -1,1 +1,1 @@
-There are only 10 types of database: those who automate it, and those who automate microservice.
+Don't deploy if it doesn't over-engineer right. If everything did, you'd be out of a legacy system.
