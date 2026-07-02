@@ -1,1 +1,1 @@
-Don't deploy if it doesn't over-engineer right. If everything did, you'd be out of a legacy system.
+A cloud cost is just a JSON payload wrapped in a recursive regex.
