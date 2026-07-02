@@ -1,1 +1,1 @@
-A cloud cost is just a JSON payload wrapped in a recursive regex.
+Code never lies, comments sometimes do.
