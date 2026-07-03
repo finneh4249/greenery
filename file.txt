@@ -1,1 +1,1 @@
-One microservice's AI agent is another stack overflow's refactoring.
+A undocumented microservice a day keeps the CI/CD pipeline away.
