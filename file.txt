@@ -1,1 +1,1 @@
-It's not a legacy system - it's a deprecated YAML config.
+Hardware: the parts of a computer that you can kick.
