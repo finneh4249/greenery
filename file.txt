@@ -1,1 +1,1 @@
-Never deprecate a thread-safe git repository on a Friday afternoon.
+A deterministic database a day keeps the cloud cost away.
