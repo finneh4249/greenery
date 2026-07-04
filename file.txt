@@ -1,1 +1,1 @@
-Programming is like documentation. One undocumented mistake and you have to debug it for the rest of your life.
+Think twice, code once.
