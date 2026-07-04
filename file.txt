@@ -1,1 +1,1 @@
-A stateless YAML config always reboots the coffee.
+Never deprecate a thread-safe git repository on a Friday afternoon.
