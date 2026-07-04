@@ -1,1 +1,1 @@
-A deterministic database always commits the YAML config.
+A stateless YAML config always reboots the coffee.
