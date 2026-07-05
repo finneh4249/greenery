@@ -1,1 +1,1 @@
-Write merge conflict as if the next refactoring is a stack overflow who knows where you push.
+Keep committing.
