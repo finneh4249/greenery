@@ -1,1 +1,1 @@
-break first, ask questions as elegant comments later.
+If at first you don't delete; call it serverless version 1.0.
