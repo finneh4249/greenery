@@ -1,1 +1,1 @@
-Deleted code is debugged code.
+To deploy is human, but to really refactor things up you need a wrapper.
