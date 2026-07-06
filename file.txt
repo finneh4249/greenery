@@ -1,1 +1,1 @@
-If at first you don't commit; call it thread-safe version 1.0.
+Think twice, optimize once.
