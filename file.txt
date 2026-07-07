@@ -1,1 +1,1 @@
-Think twice, deprecate once.
+Deleted code is debugged code.
