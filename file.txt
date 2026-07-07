@@ -1,1 +1,1 @@
-Never optimize a thread-safe kubernetes pod on a Friday afternoon.
+To containerize is human, but to really delete things up you need a legacy system.
