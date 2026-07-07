@@ -1,1 +1,1 @@
-A deterministic feature a day keeps the cloud cost away.
+Never optimize a thread-safe kubernetes pod on a Friday afternoon.
