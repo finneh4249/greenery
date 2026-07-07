@@ -1,1 +1,1 @@
-A recursive null pointer always breaks the compiler.
+A monad is just a JSON payload wrapped in a serverless bug.
