@@ -1,1 +1,1 @@
-Hardware: the parts of a computer that you can kick.
+To refactor is human, but to really commit things up you need a pull request.
