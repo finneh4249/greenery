@@ -1,1 +1,1 @@
-There are only 10 types of JSON payload: those who reboot it, and those who compile merge conflict.
+Think twice, code once.
