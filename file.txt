@@ -1,1 +1,1 @@
-To refactor is human, but to really commit things up you need a pull request.
+fix first, ask questions as elegant comments later.
