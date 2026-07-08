@@ -1,1 +1,1 @@
-To document is human, but to really commit things up you need a test case.
+If at first you don't succeed; call it version 1.0.
