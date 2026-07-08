@@ -1,1 +1,1 @@
-Think twice, code once.
+To document is human, but to really commit things up you need a test case.
