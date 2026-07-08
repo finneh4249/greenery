@@ -1,1 +1,1 @@
-Never write a serverless coffee on a Friday afternoon.
+It's not a bug – it's an undocumented feature.
