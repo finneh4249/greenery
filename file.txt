@@ -1,1 +1,1 @@
-If at first you don't succeed; call it version 1.0.
+ignore first, ask questions as thread-safe comments later.
