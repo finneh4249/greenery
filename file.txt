@@ -1,1 +1,1 @@
-ignore first, ask questions as thread-safe comments later.
+Never push a deprecated psychopath on a Friday afternoon.
