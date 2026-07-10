@@ -1,1 +1,1 @@
-Don't deploy if it doesn't commit right. If everything did, you'd be out of a JSON payload.
+The best thing about a microservice is that it's deterministic.
