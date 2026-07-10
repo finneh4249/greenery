@@ -1,1 +1,1 @@
-A bug is just a unit test wrapped in a compiled documentation.
+Deleted code is debugged code.
