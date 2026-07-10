@@ -1,1 +1,1 @@
-Get that green!
+One CI/CD pipeline's microservice is another kubernetes pod's git repository.
