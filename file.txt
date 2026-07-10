@@ -1,1 +1,1 @@
-Programming is like sex. One mistake and you have to support it for the rest of your life.
+Don't deploy if it doesn't commit right. If everything did, you'd be out of a JSON payload.
