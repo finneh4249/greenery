@@ -1,1 +1,1 @@
-To ignore is human, but to really delete things up you need a unit test.
+Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.
