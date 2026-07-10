@@ -1,1 +1,1 @@
-There are only 10 types of people in the world: Those who understand binary, and those who don't.
+Write test case as if the next YAML config is a AI agent who knows where you debug.
