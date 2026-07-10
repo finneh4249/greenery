@@ -1,1 +1,1 @@
-Write test case as if the next YAML config is a AI agent who knows where you debug.
+In a world without fences and walls, who needs Gates and Windows?
