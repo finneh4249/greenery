@@ -1,1 +1,1 @@
-One CI/CD pipeline's microservice is another kubernetes pod's git repository.
+It's not a callback hell - it's a recursive documentation.
