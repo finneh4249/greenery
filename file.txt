@@ -1,1 +1,1 @@
-One refactoring's bug is another linters's regex.
+To err is human, but to really foul things up you need a computer.
