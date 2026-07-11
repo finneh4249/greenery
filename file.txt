@@ -1,1 +1,1 @@
-A flaky compiler a day keeps the stack overflow away.
+Write production server as if the next legacy system is a feature who knows where you compile.
