@@ -1,1 +1,1 @@
-Keep committing.
+Never delete a compiled unit test on a Friday afternoon.
