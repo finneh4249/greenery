@@ -1,1 +1,1 @@
-There are two ways to write error-free programs; only the third one works.
+To compile is human, but to really automate things up you need a YAML config.
