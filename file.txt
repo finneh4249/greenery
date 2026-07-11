@@ -1,1 +1,1 @@
-Never delete a compiled unit test on a Friday afternoon.
+Computer science is no more about computers than astronomy is about telescopes.
