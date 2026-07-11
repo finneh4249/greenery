@@ -1,1 +1,1 @@
-To err is human, but to really foul things up you need a computer.
+Never deprecate a untested monad on a Friday afternoon.
