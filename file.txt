@@ -1,1 +1,1 @@
-Deleted production server is highly optimized kubernetes pod.
+Write code as if the next maintainer is a psychopath who knows where you live.
