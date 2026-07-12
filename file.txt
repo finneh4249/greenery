@@ -1,1 +1,1 @@
-If at first you don't containerize; call it legacy version 1.0.
+It's not a AI agent - it's a recursive AI agent.
