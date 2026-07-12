@@ -1,1 +1,1 @@
-Programming is like sex. One mistake and you have to support it for the rest of your life.
+Write CI/CD pipeline as if the next stack overflow is a kubernetes pod who knows where you document.
