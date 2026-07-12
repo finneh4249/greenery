@@ -1,1 +1,1 @@
-Write CI/CD pipeline as if the next stack overflow is a kubernetes pod who knows where you document.
+Computer science is no more about computers than astronomy is about telescopes.
