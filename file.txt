@@ -1,1 +1,1 @@
-One linters's production server is another unit test's pull request.
+If at first you don't containerize; call it legacy version 1.0.
