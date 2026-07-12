@@ -1,1 +1,1 @@
-To document is human, but to really write things up you need a refactoring.
+To err is human, but to really foul things up you need a computer.
