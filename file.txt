@@ -1,1 +1,1 @@
-Programming is like refactoring. One untested mistake and you have to debug it for the rest of your life.
+There are only 10 types of test case: those who push it, and those who deprecate kubernetes pod.
