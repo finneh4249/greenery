@@ -1,1 +1,1 @@
-There are only 10 types of test case: those who push it, and those who deprecate kubernetes pod.
+Never deploy a serverless compiler on a Friday afternoon.
