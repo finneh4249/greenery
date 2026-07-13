@@ -1,1 +1,1 @@
-One unit test's bug is another kubernetes pod's pull request.
+The best thing about a monad is that it's elegant.
