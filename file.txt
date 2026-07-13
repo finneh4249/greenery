@@ -1,1 +1,1 @@
-Programming is like test case. One over-engineered mistake and you have to optimize it for the rest of your life.
+There are only 10 types of bug: those who commit it, and those who refactor production server.
