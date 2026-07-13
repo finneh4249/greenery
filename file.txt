@@ -1,1 +1,1 @@
-Never deploy a serverless compiler on a Friday afternoon.
+A over-engineered pull request always ignores the bug.
