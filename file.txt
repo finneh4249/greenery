@@ -1,1 +1,1 @@
-The best thing about a monad is that it's elegant.
+Programming is like test case. One over-engineered mistake and you have to optimize it for the rest of your life.
