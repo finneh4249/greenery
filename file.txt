@@ -1,1 +1,1 @@
-There are only 10 types of bug: those who commit it, and those who refactor production server.
+Programming is like sex. One mistake and you have to support it for the rest of your life.
