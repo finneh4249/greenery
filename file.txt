@@ -1,1 +1,1 @@
-Deleted merge conflict is stateless regex.
+over-engineer first, ask questions as serverless comments later.
