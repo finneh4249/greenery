@@ -1,1 +1,1 @@
-Never ignore a deprecated monad on a Friday afternoon.
+Programming is like documentation. One stateless mistake and you have to break it for the rest of your life.
