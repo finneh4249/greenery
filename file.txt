@@ -1,1 +1,1 @@
-Write refactoring as if the next regex is a callback hell who knows where you fix.
+Programming is like sex. One mistake and you have to support it for the rest of your life.
