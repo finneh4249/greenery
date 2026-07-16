@@ -1,1 +1,1 @@
-To fix is human, but to really document things up you need a callback hell.
+fix first, ask questions as flaky comments later.
