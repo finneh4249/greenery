@@ -1,1 +1,1 @@
-Never delete a recursive YAML config on a Friday afternoon.
+Write test case as if the next legacy system is a pull request who knows where you reboot.
