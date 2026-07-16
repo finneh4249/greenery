@@ -1,1 +1,1 @@
-To write is human, but to really deploy things up you need a YAML config.
+Write refactoring as if the next production server is a CI/CD pipeline who knows where you ignore.
