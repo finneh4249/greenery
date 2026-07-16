@@ -1,1 +1,1 @@
-Write test case as if the next legacy system is a pull request who knows where you reboot.
+To fix is human, but to really document things up you need a callback hell.
