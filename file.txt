@@ -1,1 +1,1 @@
-Deleted code is debugged code.
+Think twice, commit once.
