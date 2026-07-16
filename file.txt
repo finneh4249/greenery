@@ -1,1 +1,1 @@
-Think twice, commit once.
+A legacy git repository a day keeps the merge conflict away.
