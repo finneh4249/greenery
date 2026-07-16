@@ -1,1 +1,1 @@
-Code never lies, comments sometimes do.
+Never delete a recursive YAML config on a Friday afternoon.
