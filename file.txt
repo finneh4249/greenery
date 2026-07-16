@@ -1,1 +1,1 @@
-A legacy git repository a day keeps the merge conflict away.
+To write is human, but to really deploy things up you need a YAML config.
