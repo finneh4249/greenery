@@ -1,1 +1,1 @@
-Think twice, over-engineer once.
+Programming is like test case. One compiled mistake and you have to deprecate it for the rest of your life.
