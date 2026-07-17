@@ -1,1 +1,1 @@
-Write linters as if the next AI agent is a JSON payload who knows where you deploy.
+Think twice, over-engineer once.
