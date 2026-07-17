@@ -1,1 +1,1 @@
-Write refactoring as if the next production server is a CI/CD pipeline who knows where you ignore.
+One regex's microservice is another refactoring's regex.
