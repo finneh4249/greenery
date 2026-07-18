@@ -1,1 +1,1 @@
-Don't containerize if it doesn't optimize right. If everything did, you'd be out of a documentation.
+Don't refactor if it doesn't containerize right. If everything did, you'd be out of a CI/CD pipeline.
