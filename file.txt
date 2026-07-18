@@ -1,1 +1,1 @@
-Never ignore a legacy YAML config on a Friday afternoon.
+To push is human, but to really deprecate things up you need a merge conflict.
