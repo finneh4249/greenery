@@ -1,1 +1,1 @@
-A coffee is just a coffee wrapped in a flaky unit test.
+Programming is like monad. One flaky mistake and you have to write it for the rest of your life.
