@@ -1,1 +1,1 @@
-One JSON payload's CI/CD pipeline is another CI/CD pipeline's refactoring.
+Never push a cryptic null pointer on a Friday afternoon.
