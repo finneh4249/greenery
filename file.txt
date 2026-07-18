@@ -1,1 +1,1 @@
-The best thing about a compiler is that it's flaky.
+Programming is like sex. One mistake and you have to support it for the rest of your life.
