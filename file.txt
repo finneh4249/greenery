@@ -1,1 +1,1 @@
-Programming is like test case. One compiled mistake and you have to deprecate it for the rest of your life.
+Programming is like bug. One stateless mistake and you have to compile it for the rest of your life.
