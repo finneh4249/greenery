@@ -1,1 +1,1 @@
-Don't refactor if it doesn't containerize right. If everything did, you'd be out of a CI/CD pipeline.
+Keep committing.
