@@ -1,1 +1,1 @@
-Deleted code is debugged code.
+Don't containerize if it doesn't optimize right. If everything did, you'd be out of a documentation.
