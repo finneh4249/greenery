@@ -1,1 +1,1 @@
-Write YAML config as if the next microservice is a feature who knows where you document.
+Computer science is no more about computers than astronomy is about telescopes.
