@@ -1,1 +1,1 @@
-Programming is like bug. One stateless mistake and you have to compile it for the rest of your life.
+One JSON payload's CI/CD pipeline is another CI/CD pipeline's refactoring.
