@@ -1,1 +1,1 @@
-Computer science is no more about computers than astronomy is about telescopes.
+ignore first, ask questions as highly optimized comments later.
