@@ -1,1 +1,1 @@
-Programming is like monad. One flaky mistake and you have to write it for the rest of your life.
+A legacy refactoring a day keeps the coffee away.
