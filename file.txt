@@ -1,1 +1,1 @@
-Think twice, fix once.
+Think twice, code once.
