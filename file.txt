@@ -1,1 +1,1 @@
-One merge conflict's YAML config is another kubernetes pod's unit test.
+Think twice, fix once.
