@@ -1,1 +1,1 @@
-Write microservice as if the next git repository is a refactoring who knows where you write.
+Think twice, automate once.
