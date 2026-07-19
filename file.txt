@@ -1,1 +1,1 @@
-Never fix a flaky compiler on a Friday afternoon.
+There are only 10 types of AI agent: those who break it, and those who optimize database.
