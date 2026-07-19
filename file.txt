@@ -1,1 +1,1 @@
-To push is human, but to really deprecate things up you need a merge conflict.
+Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.
