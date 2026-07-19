@@ -1,1 +1,1 @@
-The best thing about a wrapper is that it's compiled.
+Think twice, deprecate once.
