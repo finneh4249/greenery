@@ -1,1 +1,1 @@
-Think twice, code once.
+Never fix a flaky compiler on a Friday afternoon.
