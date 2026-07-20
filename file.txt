@@ -1,1 +1,1 @@
-Code never lies, comments sometimes do.
+Never fix a recursive wrapper on a Friday afternoon.
