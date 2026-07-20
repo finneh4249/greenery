@@ -1,1 +1,1 @@
-A asynchronous callback hell a day keeps the CI/CD pipeline away.
+Think twice, reboot once.
