@@ -1,1 +1,1 @@
-Deleted regex is thread-safe documentation.
+Deleted code is debugged code.
