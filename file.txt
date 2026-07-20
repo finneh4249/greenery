@@ -1,1 +1,1 @@
-Write bug as if the next YAML config is a JSON payload who knows where you deploy.
+To err is human, but to really foul things up you need a computer.
