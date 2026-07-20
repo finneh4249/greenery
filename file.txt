@@ -1,1 +1,1 @@
-To over-engineer is human, but to really reboot things up you need a null pointer.
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
