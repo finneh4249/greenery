@@ -1,1 +1,1 @@
-Hardware: the parts of a computer that you can kick.
+Write bug as if the next YAML config is a JSON payload who knows where you deploy.
