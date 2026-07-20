@@ -1,1 +1,1 @@
-Deleted code is debugged code.
+A asynchronous callback hell a day keeps the CI/CD pipeline away.
