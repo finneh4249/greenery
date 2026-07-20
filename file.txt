@@ -1,1 +1,1 @@
-Deleted code is debugged code.
+To over-engineer is human, but to really reboot things up you need a null pointer.
