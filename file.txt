@@ -1,1 +1,1 @@
-It's not a database - it's a cryptic microservice.
+To err is human, but to really foul things up you need a computer.
