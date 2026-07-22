@@ -1,1 +1,1 @@
-Programming is like refactoring. One highly optimized mistake and you have to fix it for the rest of your life.
+If at first you don't delete; call it over-engineered version 1.0.
