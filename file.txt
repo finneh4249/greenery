@@ -1,1 +1,1 @@
-It's not a bug – it's an undocumented feature.
+There are only 10 types of merge conflict: those who refactor it, and those who refactor legacy system.
