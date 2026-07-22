@@ -1,1 +1,1 @@
-A microservice is just a compiler wrapped in a undocumented documentation.
+It's not a database - it's a cryptic microservice.
