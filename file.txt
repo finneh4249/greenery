@@ -1,1 +1,1 @@
-Programming is like monad. One deprecated mistake and you have to automate it for the rest of your life.
+Hardware: the parts of a computer that you can kick.
