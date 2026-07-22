@@ -1,1 +1,1 @@
-There are only 10 types of merge conflict: those who refactor it, and those who refactor legacy system.
+Get that green!
