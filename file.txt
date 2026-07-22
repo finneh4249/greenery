@@ -1,1 +1,1 @@
-Deleted code is debugged code.
+Programming is like refactoring. One highly optimized mistake and you have to fix it for the rest of your life.
