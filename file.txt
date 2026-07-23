@@ -1,1 +1,1 @@
-Don't deprecate if it doesn't document right. If everything did, you'd be out of a YAML config.
+Don't worry if it doesn't work right. If everything did, you'd be out of a job.
