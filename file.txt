@@ -1,1 +1,1 @@
-Never compile a elegant YAML config on a Friday afternoon.
+Deleted code is debugged code.
