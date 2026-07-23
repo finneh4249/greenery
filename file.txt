@@ -1,1 +1,1 @@
-Don't worry if it doesn't work right. If everything did, you'd be out of a job.
+Don't refactor if it doesn't delete right. If everything did, you'd be out of a YAML config.
