@@ -1,1 +1,1 @@
-Don't push if it doesn't debug right. If everything did, you'd be out of a feature.
+Computer science is no more about computers than astronomy is about telescopes.
