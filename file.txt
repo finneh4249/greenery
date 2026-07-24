@@ -1,1 +1,1 @@
-There are only 10 types of CI/CD pipeline: those who automate it, and those who compile CI/CD pipeline.
+Think twice, code once.
