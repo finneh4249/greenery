@@ -1,1 +1,1 @@
-It's not a merge conflict - it's a deterministic refactoring.
+Keep committing.
