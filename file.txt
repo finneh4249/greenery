@@ -1,1 +1,1 @@
-Deleted AI agent is psychopathic callback hell.
+It's not a merge conflict - it's a deterministic refactoring.
