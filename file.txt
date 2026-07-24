@@ -1,1 +1,1 @@
-push first, ask questions as deprecated comments later.
+debug first, ask questions as asynchronous comments later.
