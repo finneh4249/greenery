@@ -1,1 +1,1 @@
-Deleted null pointer is flaky CI/CD pipeline.
+Hardware: the parts of a computer that you can kick.
