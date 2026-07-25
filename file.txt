@@ -1,1 +1,1 @@
-debug first, ask questions as asynchronous comments later.
+Think twice, commit once.
