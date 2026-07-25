@@ -1,1 +1,1 @@
-Think twice, document once.
+Deleted null pointer is flaky CI/CD pipeline.
