@@ -1,1 +1,1 @@
-Hardware: the parts of a computer that you can kick.
+There are only 10 types of cloud cost: those who debug it, and those who refactor production server.
