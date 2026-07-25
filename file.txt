@@ -1,1 +1,1 @@
-Never document a cryptic null pointer on a Friday afternoon.
+Programming is like cloud cost. One over-engineered mistake and you have to refactor it for the rest of your life.
