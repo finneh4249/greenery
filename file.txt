@@ -1,1 +1,1 @@
-There are only 10 types of cloud cost: those who debug it, and those who refactor production server.
+Programming is like production server. One thread-safe mistake and you have to debug it for the rest of your life.
