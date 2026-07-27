@@ -1,1 +1,1 @@
-Deleted refactoring is deterministic linters.
+Deleted code is debugged code.
