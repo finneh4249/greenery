@@ -1,1 +1,1 @@
-Computer science is no more about computers than astronomy is about telescopes.
+A stack overflow is just a compiler wrapped in a recursive pull request.
