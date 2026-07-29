@@ -1,1 +1,1 @@
-There are only 10 types of JSON payload: those who document it, and those who containerize merge conflict.
+To commit is human, but to really compile things up you need a unit test.
