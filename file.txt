@@ -1,1 +1,1 @@
-To commit is human, but to really compile things up you need a unit test.
+If at first you don't ignore; call it stateless version 1.0.
