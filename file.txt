@@ -1,1 +1,1 @@
-reboot first, ask questions as compiled comments later.
+There are only 10 types of JSON payload: those who document it, and those who containerize merge conflict.
