@@ -1,1 +1,1 @@
-There are only 10 types of people in the world: Those who understand binary, and those who don't.
+Don't document if it doesn't commit right. If everything did, you'd be out of a test case.
