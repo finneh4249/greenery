@@ -1,1 +1,1 @@
-There are two ways to write error-free programs; only the third one works.
+Programming is like microservice. One highly optimized mistake and you have to over-engineer it for the rest of your life.
