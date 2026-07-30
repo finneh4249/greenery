@@ -1,1 +1,1 @@
-There are only 10 types of refactoring: those who containerize it, and those who deprecate documentation.
+There are two ways to write error-free programs; only the third one works.
