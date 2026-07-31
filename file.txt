@@ -1,1 +1,1 @@
-It's not a documentation - it's a untested callback hell.
+Code never lies, comments sometimes do.
