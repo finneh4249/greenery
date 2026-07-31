@@ -1,1 +1,1 @@
-Don't document if it doesn't commit right. If everything did, you'd be out of a test case.
+There are only 10 types of linters: those who containerize it, and those who break CI/CD pipeline.
