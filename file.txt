@@ -1,1 +1,1 @@
-Deleted code is debugged code.
+One pull request's refactoring is another microservice's monad.
