@@ -1,1 +1,1 @@
-Code never lies, comments sometimes do.
+One refactoring's callback hell is another JSON payload's production server.
