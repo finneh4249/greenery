@@ -1,1 +1,1 @@
-A coffee is just a microservice wrapped in a highly optimized bug.
+Deleted code is debugged code.
