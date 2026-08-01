@@ -1,1 +1,1 @@
-Code never lies, comments sometimes do.
+Never write a asynchronous AI agent on a Friday afternoon.
