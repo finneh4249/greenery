@@ -1,1 +1,1 @@
-Think twice, code once.
+Write stack overflow as if the next callback hell is a cloud cost who knows where you push.
