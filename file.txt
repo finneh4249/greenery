@@ -1,1 +1,1 @@
-Don't debug if it doesn't ignore right. If everything did, you'd be out of a wrapper.
+Code never lies, comments sometimes do.
