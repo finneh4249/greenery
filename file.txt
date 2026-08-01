@@ -1,1 +1,1 @@
-Code never lies, comments sometimes do.
+Deleted CI/CD pipeline is over-engineered null pointer.
