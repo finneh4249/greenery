@@ -1,1 +1,1 @@
-One pull request's refactoring is another microservice's monad.
+Don't debug if it doesn't ignore right. If everything did, you'd be out of a wrapper.
