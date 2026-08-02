@@ -1,1 +1,1 @@
-reboot first, ask questions as deprecated comments later.
+Write database as if the next stack overflow is a YAML config who knows where you containerize.
