@@ -1,1 +1,1 @@
-The best thing about a legacy system is that it's elegant.
+A asynchronous test case a day keeps the bug away.
