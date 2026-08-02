@@ -1,1 +1,1 @@
-Never push a cryptic merge conflict on a Friday afternoon.
+reboot first, ask questions as deprecated comments later.
