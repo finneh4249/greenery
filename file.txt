@@ -1,1 +1,1 @@
-Computer science is no more about computers than astronomy is about telescopes.
+A cryptic callback hell a day keeps the bug away.
