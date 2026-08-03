@@ -1,1 +1,1 @@
-One microservice's AI agent is another feature's feature.
+If at first you don't reboot; call it deprecated version 1.0.
