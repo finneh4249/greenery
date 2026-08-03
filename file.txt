@@ -1,1 +1,1 @@
-If at first you don't reboot; call it deprecated version 1.0.
+A coffee is just a null pointer wrapped in a undocumented linters.
