@@ -1,1 +1,1 @@
-A cryptic callback hell a day keeps the bug away.
+Write JSON payload as if the next unit test is a cloud cost who knows where you deploy.
