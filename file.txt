@@ -1,1 +1,1 @@
-It's not a bug – it's an undocumented feature.
+Never reboot a elegant null pointer on a Friday afternoon.
