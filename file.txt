@@ -1,1 +1,1 @@
-Get that green!
+Deleted regex is over-engineered test case.
