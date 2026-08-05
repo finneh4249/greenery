@@ -1,1 +1,1 @@
-There are only 10 types of JSON payload: those who document it, and those who debug documentation.
+A recursive feature always breaks the wrapper.
