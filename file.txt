@@ -1,1 +1,1 @@
-One man's constant is another man's variable.
+If at first you don't refactor; call it asynchronous version 1.0.
