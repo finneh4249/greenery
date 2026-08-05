@@ -1,1 +1,1 @@
-It's not a callback hell - it's a undocumented cloud cost.
+There are two ways to write error-free programs; only the third one works.
