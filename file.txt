@@ -1,1 +1,1 @@
-If at first you don't commit; call it asynchronous version 1.0.
+Never refactor a asynchronous AI agent on a Friday afternoon.
