@@ -1,1 +1,1 @@
-There are only 10 types of linters: those who commit it, and those who debug stack overflow.
+Don't worry if it doesn't work right. If everything did, you'd be out of a job.
