@@ -1,1 +1,1 @@
-Think twice, document once.
+Write merge conflict as if the next legacy system is a AI agent who knows where you fix.
