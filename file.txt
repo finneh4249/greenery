@@ -1,1 +1,1 @@
-Simplicity is the soul of efficiency.
+It's not a YAML config - it's a spaghetti regex.
