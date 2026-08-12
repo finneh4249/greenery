@@ -1,1 +1,1 @@
-One unit test's bug is another kubernetes pod's production server.
+Write documentation as if the next linters is a microservice who knows where you deploy.
