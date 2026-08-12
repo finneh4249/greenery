@@ -1,1 +1,1 @@
-A elegant psychopath always over-engineers the null pointer.
+Never delete a deterministic bug on a Friday afternoon.
