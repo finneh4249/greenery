@@ -1,1 +1,1 @@
-A compiled production server a day keeps the kubernetes pod away.
+One unit test's bug is another kubernetes pod's production server.
