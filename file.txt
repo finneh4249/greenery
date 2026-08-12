@@ -1,1 +1,1 @@
-Think twice, reboot once.
+Think twice, containerize once.
