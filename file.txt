@@ -1,1 +1,1 @@
-Programming is like pull request. One compiled mistake and you have to commit it for the rest of your life.
+A psychopathic bug a day keeps the bug away.
