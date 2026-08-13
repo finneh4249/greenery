@@ -1,1 +1,1 @@
-Never push a serverless YAML config on a Friday afternoon.
+To containerize is human, but to really commit things up you need a psychopath.
