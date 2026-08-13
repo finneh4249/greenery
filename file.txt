@@ -1,1 +1,1 @@
-Don't reboot if it doesn't delete right. If everything did, you'd be out of a wrapper.
+It's not a kubernetes pod - it's a highly optimized coffee.
