@@ -1,1 +1,1 @@
-Never over-engineer a over-engineered monad on a Friday afternoon.
+Computer science is no more about computers than astronomy is about telescopes.
