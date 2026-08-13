@@ -1,1 +1,1 @@
-Don't deploy if it doesn't ignore right. If everything did, you'd be out of a legacy system.
+Never push a serverless YAML config on a Friday afternoon.
