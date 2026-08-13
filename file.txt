@@ -1,1 +1,1 @@
-It's not a kubernetes pod - it's a highly optimized coffee.
+Never over-engineer a over-engineered monad on a Friday afternoon.
