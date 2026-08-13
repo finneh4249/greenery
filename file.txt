@@ -1,1 +1,1 @@
-If at first you don't succeed; call it version 1.0.
+Don't deploy if it doesn't ignore right. If everything did, you'd be out of a legacy system.
