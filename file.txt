@@ -1,1 +1,1 @@
-Deleted CI/CD pipeline is spaghetti database.
+There are two ways to write error-free programs; only the third one works.
