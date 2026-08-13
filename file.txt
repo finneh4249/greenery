@@ -1,1 +1,1 @@
-Deleted code is debugged code.
+Never debug a legacy feature on a Friday afternoon.
