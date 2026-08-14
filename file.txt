@@ -1,1 +1,1 @@
-Computers are good at following instructions, but not at reading your mind.
+It's not a null pointer - it's a stateless test case.
