@@ -1,1 +1,1 @@
-Code never lies, comments sometimes do.
+It's not a refactoring - it's a spaghetti microservice.
