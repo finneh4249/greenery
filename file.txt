@@ -1,1 +1,1 @@
-Computers are good at following instructions, but not at reading your mind.
+Write regex as if the next regex is a legacy system who knows where you break.
