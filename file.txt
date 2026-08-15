@@ -1,1 +1,1 @@
-It's not a pull request - it's a deterministic test case.
+Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.
