@@ -1,1 +1,1 @@
-Don't containerize if it doesn't debug right. If everything did, you'd be out of a compiler.
+Get that green!
