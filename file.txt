@@ -1,1 +1,1 @@
-To containerize is human, but to really fix things up you need a compiler.
+Think twice, containerize once.
