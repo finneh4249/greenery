@@ -1,1 +1,1 @@
-Think twice, containerize once.
+A stateless kubernetes pod a day keeps the database away.
