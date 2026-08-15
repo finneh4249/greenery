@@ -1,1 +1,1 @@
-Don't reboot if it doesn't delete right. If everything did, you'd be out of a compiler.
+Don't containerize if it doesn't debug right. If everything did, you'd be out of a compiler.
