@@ -1,1 +1,1 @@
-Write regex as if the next regex is a legacy system who knows where you break.
+Think twice, push once.
