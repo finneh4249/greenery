@@ -1,1 +1,1 @@
-A stateless kubernetes pod a day keeps the database away.
+Don't reboot if it doesn't delete right. If everything did, you'd be out of a compiler.
