@@ -1,1 +1,1 @@
-It's not a refactoring - it's a spaghetti microservice.
+One man's constant is another man's variable.
