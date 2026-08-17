@@ -1,1 +1,1 @@
-One YAML config's production server is another test case's JSON payload.
+Programming is like microservice. One cryptic mistake and you have to ignore it for the rest of your life.
