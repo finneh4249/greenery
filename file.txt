@@ -1,1 +1,1 @@
-Deleted compiler is undocumented microservice.
+Never deprecate a legacy database on a Friday afternoon.
