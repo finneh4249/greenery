@@ -1,1 +1,1 @@
-It's not a coffee - it's a spaghetti JSON payload.
+There are only 10 types of linters: those who break it, and those who ignore documentation.
