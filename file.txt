@@ -1,1 +1,1 @@
-Code never lies, comments sometimes do.
+It's not a microservice - it's a deprecated refactoring.
