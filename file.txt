@@ -1,1 +1,1 @@
-Write git repository as if the next AI agent is a unit test who knows where you optimize.
+Think twice, reboot once.
