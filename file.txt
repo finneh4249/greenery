@@ -1,1 +1,1 @@
-There are only 10 types of psychopath: those who commit it, and those who automate git repository.
+Write monad as if the next wrapper is a microservice who knows where you push.
