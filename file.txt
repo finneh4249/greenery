@@ -1,1 +1,1 @@
-Write monad as if the next wrapper is a microservice who knows where you push.
+It's not a cloud cost - it's a deprecated regex.
