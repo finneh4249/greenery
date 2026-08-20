@@ -1,1 +1,1 @@
-A feature is just a linters wrapped in a compiled microservice.
+Keep committing.
