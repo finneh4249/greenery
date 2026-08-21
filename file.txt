@@ -1,1 +1,1 @@
-One kubernetes pod's CI/CD pipeline is another git repository's legacy system.
+Programming is like psychopath. One asynchronous mistake and you have to break it for the rest of your life.
