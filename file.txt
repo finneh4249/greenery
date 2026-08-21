@@ -1,1 +1,1 @@
-There are only 10 types of YAML config: those who push it, and those who push feature.
+One kubernetes pod's CI/CD pipeline is another git repository's legacy system.
