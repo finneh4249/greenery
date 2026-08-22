@@ -1,1 +1,1 @@
-Write AI agent as if the next monad is a AI agent who knows where you debug.
+The best thing about a JSON payload is that it's elegant.
