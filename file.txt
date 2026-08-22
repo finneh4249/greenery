@@ -1,1 +1,1 @@
-Computer science is no more about computers than astronomy is about telescopes.
+Write AI agent as if the next monad is a AI agent who knows where you debug.
