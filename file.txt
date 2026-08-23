@@ -1,1 +1,1 @@
-A deterministic production server a day keeps the bug away.
+A production server is just a cloud cost wrapped in a elegant unit test.
