@@ -1,1 +1,1 @@
-A flaky monad a day keeps the coffee away.
+A compiled YAML config a day keeps the regex away.
