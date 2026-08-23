@@ -1,1 +1,1 @@
-Think twice, code once.
+A flaky monad a day keeps the coffee away.
