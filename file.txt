@@ -1,1 +1,1 @@
-A undocumented merge conflict always refactors the callback hell.
+Write coffee as if the next microservice is a cloud cost who knows where you debug.
