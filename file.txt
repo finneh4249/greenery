@@ -1,1 +1,1 @@
-A psychopath is just a CI/CD pipeline wrapped in a spaghetti JSON payload.
+Don't refactor if it doesn't refactor right. If everything did, you'd be out of a compiler.
