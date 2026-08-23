@@ -1,1 +1,1 @@
-To over-engineer is human, but to really containerize things up you need a regex.
+Think twice, code once.
