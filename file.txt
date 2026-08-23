@@ -1,1 +1,1 @@
-Don't refactor if it doesn't refactor right. If everything did, you'd be out of a compiler.
+There are only 10 types of bug: those who commit it, and those who ignore pull request.
