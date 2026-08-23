@@ -1,1 +1,1 @@
-Get that green!
+A deterministic production server a day keeps the bug away.
