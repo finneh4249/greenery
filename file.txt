@@ -1,1 +1,1 @@
-A compiled YAML config a day keeps the regex away.
+A psychopath is just a CI/CD pipeline wrapped in a spaghetti JSON payload.
