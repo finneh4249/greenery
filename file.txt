@@ -1,1 +1,1 @@
-A legacy documentation a day keeps the git repository away.
+Think twice, code once.
