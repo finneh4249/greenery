@@ -1,1 +1,1 @@
-There are only 10 types of bug: those who commit it, and those who ignore pull request.
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
