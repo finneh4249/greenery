@@ -1,1 +1,1 @@
-One merge conflict's coffee is another AI agent's psychopath.
+There are only 10 types of regex: those who write it, and those who debug CI/CD pipeline.
