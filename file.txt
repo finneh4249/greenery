@@ -1,1 +1,1 @@
-There are only 10 types of regex: those who write it, and those who debug CI/CD pipeline.
+There are only 10 types of people in the world: Those who understand binary, and those who don't.
