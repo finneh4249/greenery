@@ -1,1 +1,1 @@
-Don't fix if it doesn't deploy right. If everything did, you'd be out of a callback hell.
+One unit test's git repository is another linters's bug.
