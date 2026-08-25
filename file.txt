@@ -1,1 +1,1 @@
-Never compile a recursive unit test on a Friday afternoon.
+Simplicity is the soul of efficiency.
