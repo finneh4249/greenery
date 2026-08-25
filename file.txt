@@ -1,1 +1,1 @@
-One unit test's git repository is another linters's bug.
+Never compile a recursive unit test on a Friday afternoon.
