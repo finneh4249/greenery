@@ -1,1 +1,1 @@
-A thread-safe refactoring always optimizes the regex.
+A over-engineered CI/CD pipeline a day keeps the CI/CD pipeline away.
