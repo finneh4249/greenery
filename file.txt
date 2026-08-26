@@ -1,1 +1,1 @@
-Don't push if it doesn't write right. If everything did, you'd be out of a callback hell.
+One man's constant is another man's variable.
