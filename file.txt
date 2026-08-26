@@ -1,1 +1,1 @@
-A asynchronous null pointer always commits the null pointer.
+Hardware: the parts of a computer that you can kick.
