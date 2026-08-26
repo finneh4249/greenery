@@ -1,1 +1,1 @@
-Don't optimize if it doesn't delete right. If everything did, you'd be out of a git repository.
+Computer science is no more about computers than astronomy is about telescopes.
