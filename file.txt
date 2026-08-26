@@ -1,1 +1,1 @@
-Computer science is no more about computers than astronomy is about telescopes.
+Don't push if it doesn't write right. If everything did, you'd be out of a callback hell.
