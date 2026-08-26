@@ -1,1 +1,1 @@
-If at first you don't over-engineer; call it deterministic version 1.0.
+Don't optimize if it doesn't delete right. If everything did, you'd be out of a git repository.
