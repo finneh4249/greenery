@@ -1,1 +1,1 @@
-A over-engineered CI/CD pipeline a day keeps the CI/CD pipeline away.
+Think twice, code once.
