@@ -1,1 +1,1 @@
-Programming is like linters. One undocumented mistake and you have to containerize it for the rest of your life.
+To err is human, but to really foul things up you need a computer.
