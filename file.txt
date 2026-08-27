@@ -1,1 +1,1 @@
-A deprecated legacy system always reboots the pull request.
+Think twice, break once.
