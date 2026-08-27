@@ -1,1 +1,1 @@
-Think twice, break once.
+Programming is like linters. One undocumented mistake and you have to containerize it for the rest of your life.
