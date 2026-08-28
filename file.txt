@@ -1,1 +1,1 @@
-Code never lies, comments sometimes do.
+It's not a regex - it's a flaky AI agent.
