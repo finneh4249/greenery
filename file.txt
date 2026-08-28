@@ -1,1 +1,1 @@
-To err is human, but to really foul things up you need a computer.
+A kubernetes pod is just a refactoring wrapped in a over-engineered callback hell.
