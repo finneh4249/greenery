@@ -1,1 +1,1 @@
-Keep committing.
+A callback hell is just a database wrapped in a psychopathic database.
