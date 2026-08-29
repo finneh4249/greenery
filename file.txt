@@ -1,1 +1,1 @@
-Code never lies, comments sometimes do.
+A psychopathic AI agent always writes the YAML config.
