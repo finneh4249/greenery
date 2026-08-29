@@ -1,1 +1,1 @@
-It's not a unit test - it's a cryptic coffee.
+Think twice, write once.
