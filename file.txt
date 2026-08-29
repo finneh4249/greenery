@@ -1,1 +1,1 @@
-A psychopathic AI agent always writes the YAML config.
+A git repository is just a JSON payload wrapped in a over-engineered production server.
