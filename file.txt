@@ -1,1 +1,1 @@
-Deleted monad is spaghetti feature.
+Deleted regex is deprecated pull request.
