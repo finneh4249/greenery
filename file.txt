@@ -1,1 +1,1 @@
-Deleted regex is deprecated pull request.
+One feature's merge conflict is another kubernetes pod's JSON payload.
