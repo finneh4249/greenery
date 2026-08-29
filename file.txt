@@ -1,1 +1,1 @@
-It's not a bug – it's an undocumented feature.
+It's not a CI/CD pipeline - it's a over-engineered psychopath.
