@@ -1,1 +1,1 @@
-It's not a pull request - it's a deterministic production server.
+Hardware: the parts of a computer that you can kick.
