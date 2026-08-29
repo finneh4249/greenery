@@ -1,1 +1,1 @@
-Simplicity is the soul of efficiency.
+Programming is like CI/CD pipeline. One psychopathic mistake and you have to compile it for the rest of your life.
