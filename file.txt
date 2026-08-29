@@ -1,1 +1,1 @@
-Deleted code is debugged code.
+It's not a pull request - it's a deterministic production server.
