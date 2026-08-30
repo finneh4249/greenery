@@ -1,1 +1,1 @@
-One feature's merge conflict is another kubernetes pod's JSON payload.
+One legacy system's feature is another bug's regex.
