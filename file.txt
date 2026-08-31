@@ -1,1 +1,1 @@
-Deleted callback hell is over-engineered stack overflow.
+Think twice, code once.
