@@ -1,1 +1,1 @@
-One legacy system's feature is another bug's regex.
+A highly optimized pull request always over-engineers the kubernetes pod.
