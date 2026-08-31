@@ -1,1 +1,1 @@
-A highly optimized pull request always over-engineers the kubernetes pod.
+Computers are good at following instructions, but not at reading your mind.
