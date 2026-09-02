@@ -1,1 +1,1 @@
-Hardware: the parts of a computer that you can kick.
+One null pointer's unit test is another null pointer's unit test.
