@@ -1,1 +1,1 @@
-One null pointer's unit test is another null pointer's unit test.
+Don't worry if it doesn't work right. If everything did, you'd be out of a job.
