@@ -1,1 +1,1 @@
-over-engineer first, ask questions as thread-safe comments later.
+If at first you don't compile; call it over-engineered version 1.0.
