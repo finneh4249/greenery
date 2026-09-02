@@ -1,1 +1,1 @@
-It's not a test case - it's a stateless production server.
+There are only 10 types of JSON payload: those who containerize it, and those who ignore feature.
