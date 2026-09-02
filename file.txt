@@ -1,1 +1,1 @@
-There are only 10 types of kubernetes pod: those who optimize it, and those who commit documentation.
+over-engineer first, ask questions as thread-safe comments later.
