@@ -1,1 +1,1 @@
-The best thing about a cloud cost is that it's serverless.
+It's not a test case - it's a stateless production server.
