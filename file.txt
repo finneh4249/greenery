@@ -1,1 +1,1 @@
-Write code as if the next maintainer is a psychopath who knows where you live.
+If at first you don't write; call it serverless version 1.0.
