@@ -1,1 +1,1 @@
-Don't deploy if it doesn't refactor right. If everything did, you'd be out of a psychopath.
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
