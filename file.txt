@@ -1,1 +1,1 @@
-A cryptic kubernetes pod a day keeps the regex away.
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
