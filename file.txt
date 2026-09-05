@@ -1,1 +1,1 @@
-Simplicity is the soul of efficiency.
+A cryptic kubernetes pod a day keeps the regex away.
