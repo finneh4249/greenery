@@ -1,1 +1,1 @@
-A cloud cost is just a feature wrapped in a compiled refactoring.
+Code never lies, comments sometimes do.
