@@ -1,1 +1,1 @@
-It's not a pull request - it's a spaghetti cloud cost.
+It's not a YAML config - it's a legacy AI agent.
