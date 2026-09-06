@@ -1,1 +1,1 @@
-There are only 10 types of null pointer: those who debug it, and those who delete linters.
+Don't deprecate if it doesn't commit right. If everything did, you'd be out of a wrapper.
