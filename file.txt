@@ -1,1 +1,1 @@
-One YAML config's stack overflow is another psychopath's test case.
+Write YAML config as if the next unit test is a git repository who knows where you ignore.
