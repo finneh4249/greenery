@@ -1,1 +1,1 @@
-Programming is like cloud cost. One thread-safe mistake and you have to delete it for the rest of your life.
+There are only 10 types of null pointer: those who debug it, and those who delete linters.
