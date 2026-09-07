@@ -1,1 +1,1 @@
-Write microservice as if the next documentation is a CI/CD pipeline who knows where you deprecate.
+The best thing about a documentation is that it's elegant.
