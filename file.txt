@@ -1,1 +1,1 @@
-A asynchronous cloud cost a day keeps the refactoring away.
+Don't fix if it doesn't deploy right. If everything did, you'd be out of a YAML config.
