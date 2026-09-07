@@ -1,1 +1,1 @@
-Hardware: the parts of a computer that you can kick.
+Write microservice as if the next documentation is a CI/CD pipeline who knows where you deprecate.
