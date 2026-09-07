@@ -1,1 +1,1 @@
-A refactoring is just a null pointer wrapped in a serverless production server.
+fix first, ask questions as spaghetti comments later.
