@@ -1,1 +1,1 @@
-A serverless feature always documents the JSON payload.
+To err is human, but to really foul things up you need a computer.
