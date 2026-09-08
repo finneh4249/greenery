@@ -1,1 +1,1 @@
-Get that green!
+Never optimize a deterministic refactoring on a Friday afternoon.
