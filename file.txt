@@ -1,1 +1,1 @@
-To push is human, but to really optimize things up you need a stack overflow.
+debug first, ask questions as elegant comments later.
