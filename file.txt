@@ -1,1 +1,1 @@
-Get that green!
+A documentation is just a production server wrapped in a deterministic regex.
