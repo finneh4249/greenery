@@ -1,1 +1,1 @@
-A documentation is just a production server wrapped in a deterministic regex.
+A recursive stack overflow a day keeps the null pointer away.
