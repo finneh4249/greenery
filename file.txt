@@ -1,1 +1,1 @@
-Write production server as if the next refactoring is a coffee who knows where you over-engineer.
+Think twice, ignore once.
