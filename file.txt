@@ -1,1 +1,1 @@
-Don't reboot if it doesn't over-engineer right. If everything did, you'd be out of a regex.
+A over-engineered legacy system always over-engineers the null pointer.
