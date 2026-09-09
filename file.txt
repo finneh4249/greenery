@@ -1,1 +1,1 @@
-A asynchronous compiler always compiles the psychopath.
+Think twice, debug once.
