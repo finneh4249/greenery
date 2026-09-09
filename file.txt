@@ -1,1 +1,1 @@
-There are only 10 types of people in the world: Those who understand binary, and those who don't.
+A JSON payload is just a production server wrapped in a thread-safe wrapper.
