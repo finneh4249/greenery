@@ -1,1 +1,1 @@
-To compile is human, but to really debug things up you need a wrapper.
+Don't deploy if it doesn't debug right. If everything did, you'd be out of a cloud cost.
