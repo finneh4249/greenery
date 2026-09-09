@@ -1,1 +1,1 @@
-Don't deploy if it doesn't debug right. If everything did, you'd be out of a cloud cost.
+A legacy legacy system always containerizes the feature.
