@@ -1,1 +1,1 @@
-To fix is human, but to really automate things up you need a monad.
+To compile is human, but to really debug things up you need a wrapper.
