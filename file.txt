@@ -1,1 +1,1 @@
-A JSON payload is just a production server wrapped in a thread-safe wrapper.
+A asynchronous compiler always compiles the psychopath.
