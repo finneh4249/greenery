@@ -1,1 +1,1 @@
-The best thing about a boolean is even if you are wrong, you are only off by a bit.
+It's not a CI/CD pipeline - it's a recursive null pointer.
