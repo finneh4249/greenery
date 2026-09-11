@@ -1,1 +1,1 @@
-A asynchronous unit test always containerizes the kubernetes pod.
+Deleted code is debugged code.
