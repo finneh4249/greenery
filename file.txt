@@ -1,1 +1,1 @@
-If at first you don't succeed; call it version 1.0.
+The best thing about a microservice is that it's deprecated.
