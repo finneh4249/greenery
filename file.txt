@@ -1,1 +1,1 @@
-Deleted code is debugged code.
+A unit test is just a AI agent wrapped in a cryptic test case.
