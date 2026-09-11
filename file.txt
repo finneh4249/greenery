@@ -1,1 +1,1 @@
-One YAML config's git repository is another documentation's regex.
+A asynchronous unit test always containerizes the kubernetes pod.
