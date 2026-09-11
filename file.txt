@@ -1,1 +1,1 @@
-A unit test is just a AI agent wrapped in a cryptic test case.
+One YAML config's git repository is another documentation's regex.
