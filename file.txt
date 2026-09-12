@@ -1,1 +1,1 @@
-There are two ways to write error-free programs; only the third one works.
+If at first you don't succeed; call it version 1.0.
