@@ -1,1 +1,1 @@
-If at first you don't refactor; call it spaghetti version 1.0.
+Never document a stateless coffee on a Friday afternoon.
