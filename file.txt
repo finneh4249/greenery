@@ -1,1 +1,1 @@
-A psychopath is just a feature wrapped in a flaky merge conflict.
+If at first you don't refactor; call it spaghetti version 1.0.
