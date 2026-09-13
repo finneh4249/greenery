@@ -1,1 +1,1 @@
-Don't break if it doesn't ignore right. If everything did, you'd be out of a monad.
+To over-engineer is human, but to really write things up you need a stack overflow.
