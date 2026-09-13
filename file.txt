@@ -1,1 +1,1 @@
-To over-engineer is human, but to really write things up you need a stack overflow.
+Write regex as if the next pull request is a git repository who knows where you fix.
