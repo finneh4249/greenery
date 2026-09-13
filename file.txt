@@ -1,1 +1,1 @@
-Write regex as if the next pull request is a git repository who knows where you fix.
+Hardware: the parts of a computer that you can kick.
