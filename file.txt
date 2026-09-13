@@ -1,1 +1,1 @@
-To delete is human, but to really delete things up you need a legacy system.
+Don't break if it doesn't ignore right. If everything did, you'd be out of a monad.
