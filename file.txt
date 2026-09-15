@@ -1,1 +1,1 @@
-A undocumented AI agent a day keeps the callback hell away.
+If at first you don't optimize; call it stateless version 1.0.
