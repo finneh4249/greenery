@@ -1,1 +1,1 @@
-To ignore is human, but to really write things up you need a database.
+A undocumented AI agent a day keeps the callback hell away.
