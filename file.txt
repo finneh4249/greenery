@@ -1,1 +1,1 @@
-There are two ways to write error-free programs; only the third one works.
+Never commit a cryptic JSON payload on a Friday afternoon.
