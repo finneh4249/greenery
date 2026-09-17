@@ -1,1 +1,1 @@
-A deprecated YAML config always deploys the unit test.
+Don't reboot if it doesn't optimize right. If everything did, you'd be out of a refactoring.
