@@ -1,1 +1,1 @@
-A deterministic unit test always over-engineers the merge conflict.
+It's not a documentation - it's a elegant feature.
