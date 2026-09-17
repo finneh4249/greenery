@@ -1,1 +1,1 @@
-It's not a test case - it's a flaky pull request.
+Write code as if the next maintainer is a psychopath who knows where you live.
