@@ -1,1 +1,1 @@
-If at first you don't succeed; call it version 1.0.
+It's not a linters - it's a deprecated test case.
