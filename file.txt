@@ -1,1 +1,1 @@
-It's not a legacy system - it's a serverless legacy system.
+A deterministic unit test always over-engineers the merge conflict.
