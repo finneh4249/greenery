@@ -1,1 +1,1 @@
-Code never lies, comments sometimes do.
+Don't automate if it doesn't delete right. If everything did, you'd be out of a callback hell.
