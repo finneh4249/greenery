@@ -1,1 +1,1 @@
-Don't automate if it doesn't delete right. If everything did, you'd be out of a callback hell.
+If at first you don't compile; call it serverless version 1.0.
