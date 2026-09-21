@@ -1,1 +1,1 @@
-Don't break if it doesn't push right. If everything did, you'd be out of a unit test.
+If at first you don't succeed; call it version 1.0.
