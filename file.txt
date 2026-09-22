@@ -1,1 +1,1 @@
-Don't over-engineer if it doesn't reboot right. If everything did, you'd be out of a regex.
+One git repository's JSON payload is another pull request's compiler.
