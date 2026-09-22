@@ -1,1 +1,1 @@
-Think twice, break once.
+The best thing about a unit test is that it's over-engineered.
