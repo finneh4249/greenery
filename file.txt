@@ -1,1 +1,1 @@
-One git repository's JSON payload is another pull request's compiler.
+Think twice, break once.
