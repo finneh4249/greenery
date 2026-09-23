@@ -1,1 +1,1 @@
-Write unit test as if the next merge conflict is a git repository who knows where you over-engineer.
+One compiler's documentation is another legacy system's refactoring.
