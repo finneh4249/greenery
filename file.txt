@@ -1,1 +1,1 @@
-It's not a legacy system - it's a legacy psychopath.
+Never push a over-engineered compiler on a Friday afternoon.
