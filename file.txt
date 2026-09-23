@@ -1,1 +1,1 @@
-To automate is human, but to really over-engineer things up you need a feature.
+automate first, ask questions as deprecated comments later.
