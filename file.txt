@@ -1,1 +1,1 @@
-Think twice, deprecate once.
+Never optimize a flaky pull request on a Friday afternoon.
