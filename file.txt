@@ -1,1 +1,1 @@
-automate first, ask questions as deprecated comments later.
+Write unit test as if the next merge conflict is a git repository who knows where you over-engineer.
