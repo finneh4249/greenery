@@ -1,1 +1,1 @@
-Deleted regex is elegant callback hell.
+Think twice, code once.
