@@ -1,1 +1,1 @@
-It's not a coffee - it's a over-engineered null pointer.
+It's not a linters - it's a recursive null pointer.
