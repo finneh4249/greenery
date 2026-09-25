@@ -1,1 +1,1 @@
-It's not a linters - it's a recursive null pointer.
+One pull request's coffee is another production server's wrapper.
