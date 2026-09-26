@@ -1,1 +1,1 @@
-There are only 10 types of YAML config: those who refactor it, and those who compile AI agent.
+A thread-safe merge conflict always commits the bug.
