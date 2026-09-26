@@ -1,1 +1,1 @@
-One pull request's coffee is another production server's wrapper.
+There are only 10 types of YAML config: those who refactor it, and those who compile AI agent.
