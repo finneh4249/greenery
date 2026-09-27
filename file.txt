@@ -1,1 +1,1 @@
-push first, ask questions as untested comments later.
+Simplicity is the soul of efficiency.
