@@ -1,1 +1,1 @@
-Deleted code is debugged code.
+If at first you don't write; call it deprecated version 1.0.
