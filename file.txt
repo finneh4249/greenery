@@ -1,1 +1,1 @@
-There are only 10 types of production server: those who ignore it, and those who optimize linters.
+The best thing about a monad is that it's deterministic.
