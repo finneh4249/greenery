@@ -1,1 +1,1 @@
-There are only 10 types of pull request: those who write it, and those who compile git repository.
+It's not a database - it's a serverless feature.
