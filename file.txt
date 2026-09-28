@@ -1,1 +1,1 @@
-A merge conflict is just a AI agent wrapped in a deterministic psychopath.
+There are only 10 types of bug: those who over-engineer it, and those who compile git repository.
