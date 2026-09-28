@@ -1,1 +1,1 @@
-If at first you don't deprecate; call it elegant version 1.0.
+Computers are good at following instructions, but not at reading your mind.
