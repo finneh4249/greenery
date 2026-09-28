@@ -1,1 +1,1 @@
-There are only 10 types of bug: those who over-engineer it, and those who compile git repository.
+Computer science is no more about computers than astronomy is about telescopes.
