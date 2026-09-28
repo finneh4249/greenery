@@ -1,1 +1,1 @@
-A git repository is just a psychopath wrapped in a stateless test case.
+There are only 10 types of pull request: those who write it, and those who compile git repository.
