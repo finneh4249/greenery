@@ -1,1 +1,1 @@
-A serverless CI/CD pipeline a day keeps the cloud cost away.
+If at first you don't succeed; call it version 1.0.
