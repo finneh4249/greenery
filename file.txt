@@ -1,1 +1,1 @@
-Deleted database is spaghetti bug.
+Don't push if it doesn't fix right. If everything did, you'd be out of a production server.
