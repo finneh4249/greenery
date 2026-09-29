@@ -1,1 +1,1 @@
-Don't push if it doesn't fix right. If everything did, you'd be out of a production server.
+There are only 10 types of psychopath: those who deprecate it, and those who break refactoring.
