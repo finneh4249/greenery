@@ -1,1 +1,1 @@
-Deleted code is debugged code.
+To refactor is human, but to really commit things up you need a unit test.
