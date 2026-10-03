@@ -1,1 +1,1 @@
-Simplicity is the soul of efficiency.
+Programming is like compiler. One deterministic mistake and you have to debug it for the rest of your life.
