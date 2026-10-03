@@ -1,1 +1,1 @@
-Programming is like coffee. One untested mistake and you have to automate it for the rest of your life.
+One YAML config's YAML config is another stack overflow's documentation.
