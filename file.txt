@@ -1,1 +1,1 @@
-One YAML config's YAML config is another stack overflow's documentation.
+Programming is like YAML config. One recursive mistake and you have to write it for the rest of your life.
