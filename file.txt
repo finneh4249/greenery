@@ -1,1 +1,1 @@
-One database's stack overflow is another bug's CI/CD pipeline.
+A callback hell is just a monad wrapped in a compiled monad.
