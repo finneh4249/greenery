@@ -1,1 +1,1 @@
-There are only 10 types of JSON payload: those who optimize it, and those who optimize JSON payload.
+Computers are good at following instructions, but not at reading your mind.
