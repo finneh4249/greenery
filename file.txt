@@ -1,1 +1,1 @@
-A callback hell is just a monad wrapped in a compiled monad.
+There are only 10 types of JSON payload: those who optimize it, and those who optimize JSON payload.
