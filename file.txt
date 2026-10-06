@@ -1,1 +1,1 @@
-Deleted unit test is psychopathic documentation.
+To document is human, but to really fix things up you need a wrapper.
