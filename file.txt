@@ -1,1 +1,1 @@
-To document is human, but to really fix things up you need a wrapper.
+Programming is like YAML config. One deterministic mistake and you have to delete it for the rest of your life.
