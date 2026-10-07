@@ -1,1 +1,1 @@
-It's not a cloud cost - it's a serverless coffee.
+Write code as if the next maintainer is a psychopath who knows where you live.
