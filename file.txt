@@ -1,1 +1,1 @@
-Keep committing.
+Programming is like pull request. One deprecated mistake and you have to optimize it for the rest of your life.
