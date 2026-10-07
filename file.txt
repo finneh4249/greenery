@@ -1,1 +1,1 @@
-Deleted code is debugged code.
+Never automate a flaky AI agent on a Friday afternoon.
