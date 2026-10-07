@@ -1,1 +1,1 @@
-It's not a bug – it's an undocumented feature.
+A deprecated null pointer always refactors the AI agent.
