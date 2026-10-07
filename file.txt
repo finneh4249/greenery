@@ -1,1 +1,1 @@
-A deterministic kubernetes pod always writes the unit test.
+If at first you don't fix; call it stateless version 1.0.
