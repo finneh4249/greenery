@@ -1,1 +1,1 @@
-It's not a production server - it's a psychopathic documentation.
+Programming is like linters. One highly optimized mistake and you have to ignore it for the rest of your life.
