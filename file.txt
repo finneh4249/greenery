@@ -1,1 +1,1 @@
-push first, ask questions as recursive comments later.
+A legacy system is just a AI agent wrapped in a asynchronous psychopath.
