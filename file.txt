@@ -1,1 +1,1 @@
-A flaky linters a day keeps the wrapper away.
+It's not a production server - it's a psychopathic documentation.
