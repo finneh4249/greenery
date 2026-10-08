@@ -1,1 +1,1 @@
-A legacy system is just a AI agent wrapped in a asynchronous psychopath.
+Keep committing.
