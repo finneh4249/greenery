@@ -1,1 +1,1 @@
-Simplicity is the soul of efficiency.
+push first, ask questions as recursive comments later.
