@@ -1,1 +1,1 @@
-A highly optimized coffee always deletes the compiler.
+It's not a bug – it's an undocumented feature.
