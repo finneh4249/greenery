@@ -1,1 +1,1 @@
-To delete is human, but to really compile things up you need a feature.
+Write code as if the next maintainer is a psychopath who knows where you live.
