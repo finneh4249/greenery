@@ -1,1 +1,1 @@
-Think twice, delete once.
+Deleted wrapper is undocumented null pointer.
