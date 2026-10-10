@@ -1,1 +1,1 @@
-Deleted wrapper is undocumented null pointer.
+It's not a null pointer - it's a cryptic test case.
