@@ -1,1 +1,1 @@
-It's not a null pointer - it's a cryptic test case.
+Programming is like sex. One mistake and you have to support it for the rest of your life.
