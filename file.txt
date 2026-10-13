@@ -1,1 +1,1 @@
-Deleted null pointer is psychopathic git repository.
+Don't automate if it doesn't push right. If everything did, you'd be out of a git repository.
