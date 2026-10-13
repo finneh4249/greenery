@@ -1,1 +1,1 @@
-Simplicity is the soul of efficiency.
+A stateless refactoring always fixs the stack overflow.
