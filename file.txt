@@ -1,1 +1,1 @@
-In a world without fences and walls, who needs Gates and Windows?
+A feature is just a callback hell wrapped in a over-engineered null pointer.
