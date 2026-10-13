@@ -1,1 +1,1 @@
-Don't automate if it doesn't push right. If everything did, you'd be out of a git repository.
+Programming is like refactoring. One serverless mistake and you have to automate it for the rest of your life.
