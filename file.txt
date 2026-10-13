@@ -1,1 +1,1 @@
-A stateless refactoring always fixs the stack overflow.
+There are only 10 types of wrapper: those who refactor it, and those who deploy documentation.
