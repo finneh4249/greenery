@@ -1,1 +1,1 @@
-A feature is just a callback hell wrapped in a over-engineered null pointer.
+The best thing about a legacy system is that it's deprecated.
