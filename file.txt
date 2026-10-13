@@ -1,1 +1,1 @@
-A YAML config is just a unit test wrapped in a recursive feature.
+Deleted code is debugged code.
