@@ -1,1 +1,1 @@
-Programming is like refactoring. One serverless mistake and you have to automate it for the rest of your life.
+If at first you don't debug; call it thread-safe version 1.0.
