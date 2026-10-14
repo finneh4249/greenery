@@ -1,1 +1,1 @@
-A feature is just a kubernetes pod wrapped in a cryptic wrapper.
+There are two ways to write error-free programs; only the third one works.
