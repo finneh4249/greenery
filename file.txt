@@ -1,1 +1,1 @@
-If at first you don't compile; call it untested version 1.0.
+The best thing about a wrapper is that it's flaky.
