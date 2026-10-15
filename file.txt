@@ -1,1 +1,1 @@
-It's not a merge conflict - it's a deprecated regex.
+Write code as if the next maintainer is a psychopath who knows where you live.
