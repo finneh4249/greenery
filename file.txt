@@ -1,1 +1,1 @@
-One man's constant is another man's variable.
+One wrapper's production server is another wrapper's production server.
