@@ -1,1 +1,1 @@
-A null pointer is just a AI agent wrapped in a recursive JSON payload.
+Write AI agent as if the next kubernetes pod is a production server who knows where you delete.
