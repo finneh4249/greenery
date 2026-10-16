@@ -1,1 +1,1 @@
-Write AI agent as if the next kubernetes pod is a production server who knows where you delete.
+One bug's legacy system is another stack overflow's merge conflict.
