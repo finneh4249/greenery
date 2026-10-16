@@ -1,1 +1,1 @@
-Hardware: the parts of a computer that you can kick.
+Don't ignore if it doesn't containerize right. If everything did, you'd be out of a coffee.
