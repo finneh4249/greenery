@@ -1,1 +1,1 @@
-Don't ignore if it doesn't containerize right. If everything did, you'd be out of a coffee.
+A null pointer is just a AI agent wrapped in a recursive JSON payload.
