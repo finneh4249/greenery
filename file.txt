@@ -1,1 +1,1 @@
-One wrapper's production server is another wrapper's production server.
+Deleted bug is serverless bug.
