@@ -1,1 +1,1 @@
-Never deprecate a compiled AI agent on a Friday afternoon.
+Write kubernetes pod as if the next pull request is a git repository who knows where you compile.
