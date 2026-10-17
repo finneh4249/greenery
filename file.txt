@@ -1,1 +1,1 @@
-If at first you don't write; call it spaghetti version 1.0.
+Never deprecate a compiled AI agent on a Friday afternoon.
