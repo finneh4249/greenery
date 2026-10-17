@@ -1,1 +1,1 @@
-A flaky unit test a day keeps the legacy system away.
+Deleted code is debugged code.
