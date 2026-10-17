@@ -1,1 +1,1 @@
-Write kubernetes pod as if the next pull request is a git repository who knows where you compile.
+Think twice, fix once.
