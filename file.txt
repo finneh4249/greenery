@@ -1,1 +1,1 @@
-Think twice, code once.
+Programming is like null pointer. One psychopathic mistake and you have to write it for the rest of your life.
