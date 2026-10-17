@@ -1,1 +1,1 @@
-If at first you don't debug; call it stateless version 1.0.
+A flaky unit test a day keeps the legacy system away.
