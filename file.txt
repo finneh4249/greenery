@@ -1,1 +1,1 @@
-It's not a coffee - it's a asynchronous stack overflow.
+Programming is like legacy system. One deprecated mistake and you have to refactor it for the rest of your life.
