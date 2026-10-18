@@ -1,1 +1,1 @@
-A highly optimized cloud cost always over-engineers the callback hell.
+Computers are good at following instructions, but not at reading your mind.
