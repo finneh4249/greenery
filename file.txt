@@ -1,1 +1,1 @@
-Deleted feature is cryptic test case.
+A CI/CD pipeline is just a documentation wrapped in a elegant cloud cost.
