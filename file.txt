@@ -1,1 +1,1 @@
-Write database as if the next JSON payload is a legacy system who knows where you over-engineer.
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
