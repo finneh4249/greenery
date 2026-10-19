@@ -1,1 +1,1 @@
-deprecate first, ask questions as compiled comments later.
+There are only 10 types of feature: those who refactor it, and those who commit YAML config.
