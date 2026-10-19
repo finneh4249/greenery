@@ -1,1 +1,1 @@
-break first, ask questions as stateless comments later.
+Computer science is no more about computers than astronomy is about telescopes.
