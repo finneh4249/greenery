@@ -1,1 +1,1 @@
-Deleted code is debugged code.
+break first, ask questions as stateless comments later.
