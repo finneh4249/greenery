@@ -1,1 +1,1 @@
-A over-engineered monad a day keeps the git repository away.
+In a world without fences and walls, who needs Gates and Windows?
