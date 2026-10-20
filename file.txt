@@ -1,1 +1,1 @@
-Programming is like stack overflow. One highly optimized mistake and you have to ignore it for the rest of your life.
+It's not a legacy system - it's a cryptic CI/CD pipeline.
