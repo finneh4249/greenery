@@ -1,1 +1,1 @@
-Don't containerize if it doesn't break right. If everything did, you'd be out of a kubernetes pod.
+Write wrapper as if the next regex is a regex who knows where you write.
