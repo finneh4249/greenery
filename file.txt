@@ -1,1 +1,1 @@
-It's not a legacy system - it's a cryptic CI/CD pipeline.
+There are only 10 types of CI/CD pipeline: those who containerize it, and those who containerize merge conflict.
