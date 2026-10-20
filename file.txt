@@ -1,1 +1,1 @@
-There are only 10 types of CI/CD pipeline: those who containerize it, and those who containerize merge conflict.
+Code never lies, comments sometimes do.
