@@ -1,1 +1,1 @@
-It's not a bug – it's an undocumented feature.
+Don't containerize if it doesn't break right. If everything did, you'd be out of a kubernetes pod.
