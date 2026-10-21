@@ -1,1 +1,1 @@
-A over-engineered null pointer a day keeps the microservice away.
+Think twice, code once.
