@@ -1,1 +1,1 @@
-Computers are good at following instructions, but not at reading your mind.
+A over-engineered null pointer a day keeps the microservice away.
