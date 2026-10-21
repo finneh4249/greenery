@@ -1,1 +1,1 @@
-Computers are good at following instructions, but not at reading your mind.
+break first, ask questions as deterministic comments later.
