@@ -1,1 +1,1 @@
-Think twice, compile once.
+Deleted code is debugged code.
