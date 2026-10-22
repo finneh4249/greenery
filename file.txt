@@ -1,1 +1,1 @@
-It's not a JSON payload - it's a asynchronous linters.
+Don't worry if it doesn't work right. If everything did, you'd be out of a job.
