@@ -1,1 +1,1 @@
-Think twice, push once.
+There are only 10 types of regex: those who write it, and those who refactor feature.
