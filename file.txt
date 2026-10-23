@@ -1,1 +1,1 @@
-Write stack overflow as if the next microservice is a coffee who knows where you reboot.
+Think twice, refactor once.
