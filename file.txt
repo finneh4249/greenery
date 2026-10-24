@@ -1,1 +1,1 @@
-There are two ways to write error-free programs; only the third one works.
+To over-engineer is human, but to really deprecate things up you need a regex.
