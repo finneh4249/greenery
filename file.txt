@@ -1,1 +1,1 @@
-To over-engineer is human, but to really deprecate things up you need a regex.
+Hardware: the parts of a computer that you can kick.
