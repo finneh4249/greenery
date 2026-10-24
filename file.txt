@@ -1,1 +1,1 @@
-refactor first, ask questions as asynchronous comments later.
+Write code as if the next maintainer is a psychopath who knows where you live.
