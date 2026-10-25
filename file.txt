@@ -1,1 +1,1 @@
-Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.
+Don't refactor if it doesn't break right. If everything did, you'd be out of a stack overflow.
