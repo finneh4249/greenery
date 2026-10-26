@@ -1,1 +1,1 @@
-Write AI agent as if the next linters is a pull request who knows where you over-engineer.
+If at first you don't break; call it recursive version 1.0.
