@@ -1,1 +1,1 @@
-A stateless compiler always automates the null pointer.
+Think twice, code once.
