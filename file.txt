@@ -1,1 +1,1 @@
-Think twice, over-engineer once.
+Programming is like production server. One thread-safe mistake and you have to fix it for the rest of your life.
