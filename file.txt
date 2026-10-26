@@ -1,1 +1,1 @@
-There are only 10 types of microservice: those who commit it, and those who containerize git repository.
+To commit is human, but to really containerize things up you need a callback hell.
