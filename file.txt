@@ -1,1 +1,1 @@
-Think twice, code once.
+Programming is like psychopath. One flaky mistake and you have to containerize it for the rest of your life.
