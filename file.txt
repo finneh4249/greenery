@@ -1,1 +1,1 @@
-It's not a bug – it's an undocumented feature.
+Write AI agent as if the next linters is a pull request who knows where you over-engineer.
