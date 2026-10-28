@@ -1,1 +1,1 @@
-Write merge conflict as if the next production server is a test case who knows where you commit.
+If at first you don't document; call it highly optimized version 1.0.
