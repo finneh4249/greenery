@@ -1,1 +1,1 @@
-To automate is human, but to really ignore things up you need a psychopath.
+Write merge conflict as if the next production server is a test case who knows where you commit.
