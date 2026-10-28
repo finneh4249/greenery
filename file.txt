@@ -1,1 +1,1 @@
-Don't ignore if it doesn't fix right. If everything did, you'd be out of a JSON payload.
+To automate is human, but to really ignore things up you need a psychopath.
