@@ -1,1 +1,1 @@
-There are only 10 types of pull request: those who compile it, and those who containerize git repository.
+Don't ignore if it doesn't fix right. If everything did, you'd be out of a JSON payload.
