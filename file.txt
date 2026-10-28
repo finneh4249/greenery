@@ -1,1 +1,1 @@
-Programming is like production server. One deprecated mistake and you have to push it for the rest of your life.
+There are only 10 types of pull request: those who compile it, and those who containerize git repository.
