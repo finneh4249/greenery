@@ -1,1 +1,1 @@
-A stateless test case a day keeps the JSON payload away.
+Deleted microservice is spaghetti microservice.
