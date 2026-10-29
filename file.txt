@@ -1,1 +1,1 @@
-There are only 10 types of CI/CD pipeline: those who optimize it, and those who push compiler.
+A recursive bug always deploys the legacy system.
