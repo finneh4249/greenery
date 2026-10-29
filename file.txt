@@ -1,1 +1,1 @@
-If at first you don't document; call it highly optimized version 1.0.
+There are only 10 types of CI/CD pipeline: those who optimize it, and those who push compiler.
