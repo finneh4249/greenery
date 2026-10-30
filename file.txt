@@ -1,1 +1,1 @@
-Deleted code is debugged code.
+Code never lies, comments sometimes do.
