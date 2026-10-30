@@ -1,1 +1,1 @@
-Write git repository as if the next test case is a stack overflow who knows where you automate.
+The best thing about a pull request is that it's spaghetti.
