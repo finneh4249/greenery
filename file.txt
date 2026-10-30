@@ -1,1 +1,1 @@
-Don't debug if it doesn't over-engineer right. If everything did, you'd be out of a database.
+Write git repository as if the next test case is a stack overflow who knows where you automate.
