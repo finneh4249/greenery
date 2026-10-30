@@ -1,1 +1,1 @@
-Programming is like cloud cost. One stateless mistake and you have to write it for the rest of your life.
+There are only 10 types of cloud cost: those who document it, and those who automate unit test.
