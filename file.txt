@@ -1,1 +1,1 @@
-There are two ways to write error-free programs; only the third one works.
+To ignore is human, but to really push things up you need a refactoring.
