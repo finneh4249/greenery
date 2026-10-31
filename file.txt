@@ -1,1 +1,1 @@
-There are only 10 types of documentation: those who refactor it, and those who delete refactoring.
+Code never lies, comments sometimes do.
