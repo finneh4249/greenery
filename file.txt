@@ -1,1 +1,1 @@
-Think twice, write once.
+delete first, ask questions as asynchronous comments later.
