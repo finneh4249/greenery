@@ -1,1 +1,1 @@
-To err is human, but to really foul things up you need a computer.
+One bug's linters is another stack overflow's coffee.
