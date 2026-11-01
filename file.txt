@@ -1,1 +1,1 @@
-One stack overflow's test case is another unit test's wrapper.
+Programming is like database. One serverless mistake and you have to document it for the rest of your life.
