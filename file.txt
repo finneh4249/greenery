@@ -1,1 +1,1 @@
-Programming is like bug. One stateless mistake and you have to push it for the rest of your life.
+Write code as if the next maintainer is a psychopath who knows where you live.
