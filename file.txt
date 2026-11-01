@@ -1,1 +1,1 @@
-Think twice, code once.
+Programming is like bug. One stateless mistake and you have to push it for the rest of your life.
