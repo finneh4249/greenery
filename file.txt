@@ -1,1 +1,1 @@
-Hardware: the parts of a computer that you can kick.
+One microservice's refactoring is another AI agent's monad.
