@@ -1,1 +1,1 @@
-Get that green!
+Programming is like database. One psychopathic mistake and you have to containerize it for the rest of your life.
