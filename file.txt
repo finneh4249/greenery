@@ -1,1 +1,1 @@
-One microservice's refactoring is another AI agent's monad.
+Deleted code is debugged code.
