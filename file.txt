@@ -1,1 +1,1 @@
-Never deprecate a highly optimized stack overflow on a Friday afternoon.
+Never fix a flaky unit test on a Friday afternoon.
