@@ -1,1 +1,1 @@
-One bug's linters is another stack overflow's coffee.
+It's not a callback hell - it's a highly optimized regex.
