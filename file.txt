@@ -1,1 +1,1 @@
-A serverless psychopath always deletes the microservice.
+There are two ways to write error-free programs; only the third one works.
