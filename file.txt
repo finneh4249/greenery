@@ -1,1 +1,1 @@
-A psychopathic YAML config a day keeps the psychopath away.
+A monad is just a psychopath wrapped in a cryptic JSON payload.
