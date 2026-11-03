@@ -1,1 +1,1 @@
-Don't deprecate if it doesn't optimize right. If everything did, you'd be out of a git repository.
+The best thing about a stack overflow is that it's deterministic.
