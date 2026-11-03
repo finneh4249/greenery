@@ -1,1 +1,1 @@
-A monad is just a psychopath wrapped in a cryptic JSON payload.
+Programming is like stack overflow. One thread-safe mistake and you have to automate it for the rest of your life.
