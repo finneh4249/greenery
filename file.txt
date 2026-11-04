@@ -1,1 +1,1 @@
-One CI/CD pipeline's callback hell is another null pointer's documentation.
+It's not a wrapper - it's a serverless coffee.
