@@ -1,1 +1,1 @@
-Simplicity is the soul of efficiency.
+One CI/CD pipeline's callback hell is another null pointer's documentation.
