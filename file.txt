@@ -1,1 +1,1 @@
-It's not a microservice - it's a compiled unit test.
+A cryptic documentation a day keeps the compiler away.
