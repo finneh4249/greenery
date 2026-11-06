@@ -1,1 +1,1 @@
-If at first you don't ignore; call it spaghetti version 1.0.
+It's not a microservice - it's a compiled unit test.
