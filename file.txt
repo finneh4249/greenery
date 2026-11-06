@@ -1,1 +1,1 @@
-Think twice, code once.
+Never deploy a elegant git repository on a Friday afternoon.
