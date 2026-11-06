@@ -1,1 +1,1 @@
-Never deploy a elegant git repository on a Friday afternoon.
+If at first you don't ignore; call it spaghetti version 1.0.
