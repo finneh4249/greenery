@@ -1,1 +1,1 @@
-A cryptic documentation a day keeps the compiler away.
+Never compile a thread-safe merge conflict on a Friday afternoon.
