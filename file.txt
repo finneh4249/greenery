@@ -1,1 +1,1 @@
-There are only 10 types of bug: those who refactor it, and those who ignore unit test.
+There are two ways to write error-free programs; only the third one works.
