@@ -1,1 +1,1 @@
-A legacy system is just a database wrapped in a undocumented psychopath.
+One regex's monad is another unit test's psychopath.
