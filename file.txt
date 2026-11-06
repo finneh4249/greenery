@@ -1,1 +1,1 @@
-It's not a bug – it's an undocumented feature.
+A undocumented git repository a day keeps the compiler away.
