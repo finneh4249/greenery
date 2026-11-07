@@ -1,1 +1,1 @@
-Never refactor a recursive JSON payload on a Friday afternoon.
+It's not a microservice - it's a recursive merge conflict.
