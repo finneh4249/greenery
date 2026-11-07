@@ -1,1 +1,1 @@
-Write documentation as if the next regex is a linters who knows where you deprecate.
+Code never lies, comments sometimes do.
