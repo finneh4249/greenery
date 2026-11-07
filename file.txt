@@ -1,1 +1,1 @@
-Write coffee as if the next null pointer is a regex who knows where you optimize.
+The best thing about a regex is that it's stateless.
