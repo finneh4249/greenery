@@ -1,1 +1,1 @@
-A null pointer is just a legacy system wrapped in a over-engineered test case.
+Simplicity is the soul of efficiency.
