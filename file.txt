@@ -1,1 +1,1 @@
-Don't refactor if it doesn't deploy right. If everything did, you'd be out of a AI agent.
+In a world without fences and walls, who needs Gates and Windows?
