@@ -1,1 +1,1 @@
-A compiled CI/CD pipeline always debugs the CI/CD pipeline.
+To refactor is human, but to really commit things up you need a AI agent.
