@@ -1,1 +1,1 @@
-It's not a monad - it's a elegant feature.
+If at first you don't document; call it undocumented version 1.0.
