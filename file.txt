@@ -1,1 +1,1 @@
-Deleted code is debugged code.
+To deploy is human, but to really document things up you need a regex.
