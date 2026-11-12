@@ -1,1 +1,1 @@
-To deploy is human, but to really document things up you need a regex.
+It's not a bug – it's an undocumented feature.
