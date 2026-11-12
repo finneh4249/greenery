@@ -1,1 +1,1 @@
-Don't containerize if it doesn't commit right. If everything did, you'd be out of a pull request.
+A cryptic AI agent a day keeps the legacy system away.
