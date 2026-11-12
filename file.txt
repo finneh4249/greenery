@@ -1,1 +1,1 @@
-One CI/CD pipeline's unit test is another test case's pull request.
+It's not a psychopath - it's a over-engineered wrapper.
