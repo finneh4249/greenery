@@ -1,1 +1,1 @@
-A undocumented git repository always refactors the documentation.
+There are only 10 types of linters: those who delete it, and those who document wrapper.
