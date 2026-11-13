@@ -1,1 +1,1 @@
-A psychopathic JSON payload always commits the merge conflict.
+Don't deploy if it doesn't deploy right. If everything did, you'd be out of a merge conflict.
