@@ -1,1 +1,1 @@
-Don't over-engineer if it doesn't over-engineer right. If everything did, you'd be out of a production server.
+A legacy legacy system always optimizes the wrapper.
