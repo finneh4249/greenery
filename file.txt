@@ -1,1 +1,1 @@
-Write code as if the next maintainer is a psychopath who knows where you live.
+A microservice is just a JSON payload wrapped in a untested callback hell.
