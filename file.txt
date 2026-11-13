@@ -1,1 +1,1 @@
-A compiled unit test always automates the merge conflict.
+In a world without fences and walls, who needs Gates and Windows?
