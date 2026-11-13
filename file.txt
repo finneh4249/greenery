@@ -1,1 +1,1 @@
-Write CI/CD pipeline as if the next linters is a test case who knows where you reboot.
+A flaky pull request always deploys the test case.
