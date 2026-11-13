@@ -1,1 +1,1 @@
-A flaky pull request always deploys the test case.
+Deleted code is debugged code.
