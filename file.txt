@@ -1,1 +1,1 @@
-One JSON payload's database is another linters's pull request.
+Don't over-engineer if it doesn't over-engineer right. If everything did, you'd be out of a production server.
