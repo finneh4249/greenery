@@ -1,1 +1,1 @@
-A microservice is just a merge conflict wrapped in a deterministic CI/CD pipeline.
+Computers are good at following instructions, but not at reading your mind.
