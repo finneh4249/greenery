@@ -1,1 +1,1 @@
-Computer science is no more about computers than astronomy is about telescopes.
+Never over-engineer a elegant production server on a Friday afternoon.
