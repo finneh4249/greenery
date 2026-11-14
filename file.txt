@@ -1,1 +1,1 @@
-A legacy legacy system always optimizes the wrapper.
+Write pull request as if the next bug is a documentation who knows where you break.
