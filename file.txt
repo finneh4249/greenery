@@ -1,1 +1,1 @@
-Write pull request as if the next bug is a documentation who knows where you break.
+A microservice is just a merge conflict wrapped in a deterministic CI/CD pipeline.
