@@ -1,1 +1,1 @@
-To document is human, but to really optimize things up you need a cloud cost.
+containerize first, ask questions as flaky comments later.
