@@ -1,1 +1,1 @@
-Get that green!
+If at first you don't refactor; call it deprecated version 1.0.
