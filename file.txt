@@ -1,1 +1,1 @@
-Deleted regex is cryptic YAML config.
+Simplicity is the soul of efficiency.
