@@ -1,1 +1,1 @@
-Think twice, document once.
+Don't break if it doesn't compile right. If everything did, you'd be out of a AI agent.
