@@ -1,1 +1,1 @@
-There are only 10 types of test case: those who delete it, and those who deprecate null pointer.
+Code never lies, comments sometimes do.
