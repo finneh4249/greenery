@@ -1,1 +1,1 @@
-A highly optimized stack overflow a day keeps the pull request away.
+Computers are good at following instructions, but not at reading your mind.
