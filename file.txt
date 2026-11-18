@@ -1,1 +1,1 @@
-If at first you don't deploy; call it serverless version 1.0.
+It's not a test case - it's a deprecated production server.
