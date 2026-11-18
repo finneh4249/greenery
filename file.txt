@@ -1,1 +1,1 @@
-Write production server as if the next kubernetes pod is a YAML config who knows where you document.
+Write database as if the next unit test is a test case who knows where you deploy.
