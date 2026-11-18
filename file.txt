@@ -1,1 +1,1 @@
-Computers are good at following instructions, but not at reading your mind.
+Write kubernetes pod as if the next psychopath is a microservice who knows where you document.
