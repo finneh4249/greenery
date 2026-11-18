@@ -1,1 +1,1 @@
-Computer science is no more about computers than astronomy is about telescopes.
+Write production server as if the next kubernetes pod is a YAML config who knows where you document.
