@@ -1,1 +1,1 @@
-Write kubernetes pod as if the next psychopath is a microservice who knows where you document.
+There are only 10 types of people in the world: Those who understand binary, and those who don't.
