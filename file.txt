@@ -1,1 +1,1 @@
-A documentation is just a psychopath wrapped in a legacy database.
+Never compile a psychopathic null pointer on a Friday afternoon.
