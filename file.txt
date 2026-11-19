@@ -1,1 +1,1 @@
-A null pointer is just a wrapper wrapped in a untested refactoring.
+Computer science is no more about computers than astronomy is about telescopes.
