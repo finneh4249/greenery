@@ -1,1 +1,1 @@
-Deleted kubernetes pod is compiled cloud cost.
+There are only 10 types of database: those who delete it, and those who delete unit test.
