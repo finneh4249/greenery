@@ -1,1 +1,1 @@
-Computers are good at following instructions, but not at reading your mind.
+There are only 10 types of YAML config: those who compile it, and those who containerize regex.
