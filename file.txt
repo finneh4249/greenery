@@ -1,1 +1,1 @@
-Programming is like wrapper. One flaky mistake and you have to deprecate it for the rest of your life.
+There are only 10 types of people in the world: Those who understand binary, and those who don't.
