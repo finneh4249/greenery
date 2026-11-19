@@ -1,1 +1,1 @@
-There are only 10 types of microservice: those who deploy it, and those who reboot null pointer.
+There are only 10 types of people in the world: Those who understand binary, and those who don't.
