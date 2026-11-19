@@ -1,1 +1,1 @@
-A highly optimized bug a day keeps the coffee away.
+A thread-safe refactoring always compiles the coffee.
