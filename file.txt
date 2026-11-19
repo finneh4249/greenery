@@ -1,1 +1,1 @@
-There are only 10 types of YAML config: those who compile it, and those who containerize regex.
+Write code as if the next maintainer is a psychopath who knows where you live.
