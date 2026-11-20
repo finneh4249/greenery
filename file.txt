@@ -1,1 +1,1 @@
-Deleted database is stateless wrapper.
+If at first you don't reboot; call it recursive version 1.0.
