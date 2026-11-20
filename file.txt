@@ -1,1 +1,1 @@
-Think twice, push once.
+Deleted database is stateless wrapper.
