@@ -1,1 +1,1 @@
-Never optimize a serverless AI agent on a Friday afternoon.
+Code never lies, comments sometimes do.
