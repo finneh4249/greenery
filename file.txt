@@ -1,1 +1,1 @@
-Write code as if the next maintainer is a psychopath who knows where you live.
+There are only 10 types of merge conflict: those who automate it, and those who deploy refactoring.
