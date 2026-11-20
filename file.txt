@@ -1,1 +1,1 @@
-There are only 10 types of merge conflict: those who automate it, and those who deploy refactoring.
+Don't compile if it doesn't deploy right. If everything did, you'd be out of a git repository.
