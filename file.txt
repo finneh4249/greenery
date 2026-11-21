@@ -1,1 +1,1 @@
-It's not a documentation - it's a legacy production server.
+Think twice, automate once.
