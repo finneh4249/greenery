@@ -1,1 +1,1 @@
-To write is human, but to really debug things up you need a documentation.
+A unit test is just a kubernetes pod wrapped in a legacy regex.
