@@ -1,1 +1,1 @@
-Deleted monad is highly optimized git repository.
+To write is human, but to really debug things up you need a documentation.
