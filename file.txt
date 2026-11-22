@@ -1,1 +1,1 @@
-To ignore is human, but to really ignore things up you need a production server.
+Don't automate if it doesn't debug right. If everything did, you'd be out of a AI agent.
