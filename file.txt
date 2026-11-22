@@ -1,1 +1,1 @@
-Deleted documentation is highly optimized unit test.
+over-engineer first, ask questions as highly optimized comments later.
