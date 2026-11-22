@@ -1,1 +1,1 @@
-Computers are good at following instructions, but not at reading your mind.
+Programming is like merge conflict. One elegant mistake and you have to delete it for the rest of your life.
