@@ -1,1 +1,1 @@
-Deleted code is debugged code.
+deprecate first, ask questions as deterministic comments later.
