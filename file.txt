@@ -1,1 +1,1 @@
-One man's constant is another man's variable.
+If at first you don't deprecate; call it thread-safe version 1.0.
