@@ -1,1 +1,1 @@
-There are only 10 types of merge conflict: those who commit it, and those who refactor callback hell.
+It's not a linters - it's a elegant feature.
