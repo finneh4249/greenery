@@ -1,1 +1,1 @@
-If at first you don't deprecate; call it thread-safe version 1.0.
+Computers are good at following instructions, but not at reading your mind.
