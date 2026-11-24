@@ -1,1 +1,1 @@
-Computers are good at following instructions, but not at reading your mind.
+There are only 10 types of merge conflict: those who commit it, and those who refactor callback hell.
