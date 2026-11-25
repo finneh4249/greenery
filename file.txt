@@ -1,1 +1,1 @@
-Code never lies, comments sometimes do.
+A asynchronous documentation a day keeps the stack overflow away.
