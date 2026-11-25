@@ -1,1 +1,1 @@
-A asynchronous documentation a day keeps the stack overflow away.
+It's not a stack overflow - it's a highly optimized pull request.
