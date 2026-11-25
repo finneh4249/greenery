@@ -1,1 +1,1 @@
-A cryptic stack overflow a day keeps the regex away.
+Programming is like callback hell. One deprecated mistake and you have to commit it for the rest of your life.
