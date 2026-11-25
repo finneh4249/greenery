@@ -1,1 +1,1 @@
-A untested feature a day keeps the microservice away.
+If at first you don't debug; call it psychopathic version 1.0.
