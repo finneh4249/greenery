@@ -1,1 +1,1 @@
-Don't ignore if it doesn't compile right. If everything did, you'd be out of a psychopath.
+Never debug a deprecated unit test on a Friday afternoon.
