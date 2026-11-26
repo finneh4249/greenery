@@ -1,1 +1,1 @@
-containerize first, ask questions as flaky comments later.
+It's not a bug – it's an undocumented feature.
