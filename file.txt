@@ -1,1 +1,1 @@
-Programming is like callback hell. One deprecated mistake and you have to commit it for the rest of your life.
+Computers are good at following instructions, but not at reading your mind.
