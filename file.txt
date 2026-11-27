@@ -1,1 +1,1 @@
-Hardware: the parts of a computer that you can kick.
+A null pointer is just a CI/CD pipeline wrapped in a recursive legacy system.
