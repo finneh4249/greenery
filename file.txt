@@ -1,1 +1,1 @@
-A compiler is just a JSON payload wrapped in a highly optimized pull request.
+Hardware: the parts of a computer that you can kick.
