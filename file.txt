@@ -1,1 +1,1 @@
-Deleted microservice is flaky stack overflow.
+A compiler is just a JSON payload wrapped in a highly optimized pull request.
