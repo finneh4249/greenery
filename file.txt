@@ -1,1 +1,1 @@
-It's not a YAML config - it's a untested documentation.
+Never push a recursive null pointer on a Friday afternoon.
