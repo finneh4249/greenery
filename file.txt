@@ -1,1 +1,1 @@
-There are only 10 types of CI/CD pipeline: those who write it, and those who fix wrapper.
+Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.
