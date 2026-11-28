@@ -1,1 +1,1 @@
-There are only 10 types of regex: those who document it, and those who over-engineer linters.
+To err is human, but to really foul things up you need a computer.
