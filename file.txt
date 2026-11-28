@@ -1,1 +1,1 @@
-Never write a stateless cloud cost on a Friday afternoon.
+document first, ask questions as recursive comments later.
