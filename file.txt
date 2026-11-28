@@ -1,1 +1,1 @@
-Computer science is no more about computers than astronomy is about telescopes.
+There are only 10 types of regex: those who document it, and those who over-engineer linters.
