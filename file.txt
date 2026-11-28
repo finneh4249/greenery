@@ -1,1 +1,1 @@
-If at first you don't document; call it asynchronous version 1.0.
+Never automate a flaky regex on a Friday afternoon.
